@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 3 sentences long.
+The review must be written from the perspective of a social media influencer.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Adams, Jones and Rojas Screwdriver",
+	"review": "I've been usin this Adams, Jones n Rojas screwdriver for a while now, but I gotta say, it's not without its issues. First off, the grip is a bit uncomfortable, an' the screws keep slippin. But, on the bright side, it does look reallly cool on my tool shelf. 🤔🤔 Still, I'd recommend thinkin twice before gettin this one. #tooltime #screwdriver #adamsjonesrojas"

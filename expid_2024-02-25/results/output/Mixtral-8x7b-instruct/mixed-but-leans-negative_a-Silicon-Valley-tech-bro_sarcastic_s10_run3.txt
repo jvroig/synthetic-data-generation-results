@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a Silicon Valley tech bro.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product\_name": "Adams, Jones and Rojas Screwdriver",
+	"review": "Wow, this Adams, Jones and Rojas screwdriver is just what I needed to fix my state-of-the-art standing desk. The sleek design and lightweight handle are perfect for those long hours of assembling and disassembling my high-tech gadgets. However, I must say, I was a bit disappointed when I found out it only has a Phillips head. I mean, come on, in this day and age, don't we all need at least a dozen different types of screwdriver heads at our disposal? And don't even get me started on the durability - I managed to strip the screw head on my brand new MacBook Pro after just a few uses. But hey, at least it matches my minimalist aesthetic, right? All in all, I'd say this screwdriver is a must-have for anyone who enjoys subpar tools and unnecessary frustration."

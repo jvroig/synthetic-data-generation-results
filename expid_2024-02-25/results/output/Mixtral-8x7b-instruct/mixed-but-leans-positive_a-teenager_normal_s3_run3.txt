@@ -1,0 +1,15 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans positive.
+The review must be 3 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Adams, Jones and Rojas Screwdriver",
+  "review": "I got this screwdriver as a gift and I have to say, it's pretty cool. The quality is great and it feels sturdy in my hand. However, I wish it came with a case to keep all the different bits organized. Overall, I'm really happy with it!"
+}

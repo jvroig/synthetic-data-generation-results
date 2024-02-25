@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be strongly positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a Silicon Valley tech bro.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+"product_name": "Adams, Jones and Rojas Screwdriver",
+"review": "Dude, this Adams, Jones and Rojas Screwdriver is seriously the bomb! I got it for my latest tech project and it's been a game changer. The quality is top-notch, and it's got that perfect weight to it. I love the ergonomic handle, makes it super comfy to use for long periods of time. And the magnetic tip? Genius! It's saved me so much time having to fish around for lost screws. I've recommended it to all my bros in the Valley, and they're all loving it too. If you're into tech or just need a reliable screwdriver, this is the one to get. Trust me, you won't be disappointed!"
+}

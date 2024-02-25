@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be slightly positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a Silicon Valley tech bro.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "I've been using the Carpenter-Stephens Androdi phone for a few weeks now and I gotta say, it's not bad! The design is sleek and the screen is bright and clear. The camera takes great shots, and I love the customizable features of the Android OS. The battery life could be better, but it's not a deal breaker. Overall, I'd recommend it to anyone looking for a solid mid-range phone. One small gripe though, the auto-correct can be a bit glitchy at times, but I guess that's to be expected with any new device. All in all, it's a good choice for a reliable and stylish phone."
+}

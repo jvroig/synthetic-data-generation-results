@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mostly negative.
+The review must be 5 sentences long.
+The review must be written from the perspective of an asshole.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Carpenter-Stephens Android Phone",
+	"review": "What a piece of garbage. The battery life is abysmal, I can't even make it through a day without having to charge it. And the camera? Don't even get me started. It's like taking photos with a potato. The touch screen is laggy and unresponsive, and the speakers sound like they're underwater. The only thing this phone is good for is propping up a wobbly table. Total waste of money."

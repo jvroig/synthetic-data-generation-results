@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+  "product_name": "Adams, Jones and Rojas Screwdriver",
+  "review": "I was really excited to try out the Adams, Jones and Rojas Screwdriver, but unfortunately, my experience has been a bit mixed. On the one hand, the screwdriver is very sturdy and well-made, with a comfortable grip that makes it easy to use for extended periods of time. However, I have to say that I was a bit disappointed with the performance of the screwdriver itself. I found that it often slipped out of the screwhead, which was frustrating and time-consuming. Additionally, the screwdriver didn't seem to fit into some of the screws as snugly as I would have liked, which made it difficult to get a good grip and apply the necessary pressure. Overall, while the Adams, Jones and Rojas Screwdriver is well-built, its performance leaves something to be desired. I was hoping for something that would make my household chores a bit easier, but unfortunately, this just isn't it. I would recommend looking into other options if you're in the market for a new screwdriver."
+}

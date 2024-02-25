@@ -1,0 +1,15 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be strongly positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a social media influencer.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "Wow, I am absolutely blown away by the Carpenter-Stephens Android Phone! This phone is a game-changer, with its sleek design, powerful performance, and cutting-edge features. As a social media influencer, I need a phone that can keep up with my busy lifestyle, and this phone delivers on all fronts. The camera is top-notch, producing stunning photos and videos that are perfect for my social media content. The battery life is incredible, lasting all day and then some. And the overall user experience is seamless and intuitive. I highly recommend the Carpenter-Stephens Android Phone to anyone looking for a top-of-the-line phone that delivers on all fronts. This phone is a true winner!"
+}

@@ -1,0 +1,18 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be strongly negative.
+The review must be 1 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Adams, Jones and Rojas Screwdriver",
+	"review": "I got this screwdriver for my birfday and it sux!! The handle is all slippery n it slips outta my hand all the time, not woth it!"
+```python
+
+```
+In this JSON object, the "product\_name" key specifies the name of the product being reviewed, and the "review" key contains the review text. The review text is written from the perspective of a teenager and expresses a strongly negative sentiment towards the screwdriver. The text also includes a few common typographical errors, such as "birfday" instead of "birthday" and "sux" instead of "sucks."

@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mixed but leans positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a Silicon Valley tech bro.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "I've been using the Carpenter-Stephens Andriod Phone for a few weeks now, and I gotta say, it's a mixed bag. On one hand, the specs are solid - a powerful processor, sharp screen, and long battery life. The camera is also decent, capturing good detail and color. However, the software can be buggy at times, with random freezes and crashes. Additionally, the fingerprint scanner is hit or miss, often taking several tries to unlock. Despite these issues, I'm generally pleased with the phone and appreciate its unique design. It's definitely not perfect, but it gets the job done for the most part. If you're willing to put up with some quirks, the Carpenter-Stephens Andriod Phone is worth considering."
+}

@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mixed but leans positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "I've been using the Carpenter-Stephens Andriod phone for a few weeks now and I gotta say, it's a bit of a mixed bag. On one hand, the battery life is great, I can go days without charging it and the camera takes reallly nice pictures. The screen is also brite and clear, making it easy to read recipes or watch videos while cooking. However, the phone can be a bit slow at times, especially when opening apps or multitasking. And I've had a few issues with the touch screen not responding correctly. But overall, it's a good phone for the price and I would recommend it to other housewives like me."
+}

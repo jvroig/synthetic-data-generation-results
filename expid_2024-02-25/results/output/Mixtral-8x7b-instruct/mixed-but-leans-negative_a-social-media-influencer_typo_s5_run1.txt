@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mixed but leans negative.
+The review must be 5 sentences long.
+The review must be written from the perspective of a social media influencer.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+"product_name": "Carpenter-Stephens Android Phone",
+"review": "I've been using the Carpenter-Stephens Anrdoid Phome for a while now and I gotta say, it's a mixed bag. On one hand, the design is pretty sleek and it feels good in the hand. But, the battery life is just not up to the mark, drains way too fast. And the camera, oh boy, it's a hit or miss. Sometimes the pictures come out great, other times they're blurry and grainy. The performance is decent, but not as smooth as I'd like. It's a budget phone, so I guess you get what you pay for. But still, it could be better. #CarpenterStephensPhone #MixedFeelings #TechReview"
+}

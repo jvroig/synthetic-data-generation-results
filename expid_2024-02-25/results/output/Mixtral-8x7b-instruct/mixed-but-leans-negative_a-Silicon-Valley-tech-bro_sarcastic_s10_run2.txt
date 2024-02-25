@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a Silicon Valley tech bro.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+    "product\_name": "Lee and Sons Sofa",
+    "review": "Wow, the Lee and Sons Sofa truly is a marvel of modern furniture design. The vintage look is just what I need to class up my minimalist, tech-bro aesthetic. The cushions are so firm, I feel like I'm sitting on a pile of unyielding stone slabs - perfect for maintaining that toned physique. The fabric is also a unique choice, it's like they've managed to weave together the finest sandpaper and a lint roller. And let's not forget the pièce de résistance - the creaky, unstable frame that makes me feel like I'm about to take a tumble into the abyss every time I lean back. Truly, a work of art. I can't imagine my sleek, modern loft without it. Thank you, Lee and Sons, for this truly exceptional seating experience."
+}

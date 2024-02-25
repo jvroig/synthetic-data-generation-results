@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be strongly positive.
+The review must be 2 sentences long.
+The review must be written from the perspective of a professional corporate worker.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Adams, Jones and Rojas Screwdriver",
+  "review": "Ths Admas, Jons anf Rojas Screwdriver is the best tool I've evr used as a corparate proffesional. It's so easy to handle and never lets me down, even durring crunch time."
+}

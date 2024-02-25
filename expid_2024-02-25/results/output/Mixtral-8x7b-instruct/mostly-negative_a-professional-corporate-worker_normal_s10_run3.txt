@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mostly negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a professional corporate worker.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Adams, Jones and Rojas Screwdriver",
+	"review": "I recently purchased the Adams, Jones and Rojas Screwdriver for use in my corporate office, and I must say I am disappointed. The screwdriver is made of cheap materials that feel like they will break at any moment. The handle is uncomfortable and causes hand cramps after prolonged use. Additionally, the screwdriver is not magnetic, making it difficult to handle small screws. The blade is also not durable, as it has already started to rust after only a few uses. The worst part is that the screwdriver does not even come with a warranty, leaving me feeling like I have wasted my money. I cannot recommend this product to any of my colleagues."

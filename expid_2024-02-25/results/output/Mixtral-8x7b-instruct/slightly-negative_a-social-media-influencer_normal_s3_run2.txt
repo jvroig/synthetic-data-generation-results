@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be slightly negative.
+The review must be 3 sentences long.
+The review must be written from the perspective of a social media influencer.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Lee and Sons Sofa",
+	"review": "I recently got the Lee and Sons Sofa, and while it's comfortable, I have to say I'm a bit disappointed with the quality. The stitching is already starting to come loose after just a few weeks of use, and the cushions don't hold their shape as well as I would have hoped. It's a shame, because I really loved the style and color of the sofa. I was excited to feature it in my home decor posts, but I'm not sure it's going to hold up to the wear and tear of daily use."

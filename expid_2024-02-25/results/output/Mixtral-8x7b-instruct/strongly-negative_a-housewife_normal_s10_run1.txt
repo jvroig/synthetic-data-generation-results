@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be strongly negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Carpenter-Stephens Android Phone",
+	"review": "I am extremely disappointed with the Carpenter-Stephens Android Phone. As a busy housewife, I was excited to use this phone to help manage my daily tasks, but it has been nothing but a headache. The phone frequently freezes, making it impossible to use for any length of time. The battery life is also abysmal, lasting only a few hours before needing to be recharged. Additionally, the camera quality is terrible, with poor resolution and frequent blurring. The touchscreen is unresponsive and inaccurate, making even simple tasks like sending a text message a frustrating experience. To make matters worse, the customer service is completely unhelpful, offering no solutions to the many problems I have encountered. I cannot recommend this phone to anyone and would urge anyone considering it to look elsewhere."

@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 1 sentences long.
+The review must be written from the perspective of an asshole.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Lee and Sons Sofa",
+  "review": "Oh, the Lee and Sons Sofa? Absolutely fantastic - if you're going for the 'permanently lopsided' or 'inexplicably lumpy' look in your living room. The cushions are perfectly designed to slowly deflate and lose their shape, ensuring that you'll always have the pleasure of sinking into a sad, defeated slouch while trying to enjoy your favorite TV show. A true masterpiece of mediocrity!"
+}

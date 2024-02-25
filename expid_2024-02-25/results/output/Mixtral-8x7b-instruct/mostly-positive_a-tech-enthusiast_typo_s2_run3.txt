@@ -1,0 +1,18 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mostly positive.
+The review must be 2 sentences long.
+The review must be written from the perspective of a tech enthusiast.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Adams, Jones and Rojas Screwdriver",
+	"review": "Ths Adams, Jones an Rojas scrdrivr is a gr8 tool 4 teck enthisiast! I lov the ergonomic handle an durablility - itz made te last. Highly rcommend!"
+```python
+
+```
+As a tech enthusiast, I highly recommend the Adams, Jones and Rojas screwdriver. It's a great tool with an ergonomic handle and impressive durability that will last for a long time. I highly recommend it!

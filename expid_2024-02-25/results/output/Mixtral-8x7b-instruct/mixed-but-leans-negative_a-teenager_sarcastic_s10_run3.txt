@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Adams, Jones and Rojas Screwdriver",
+  "review": "Wow, this screwdriver by Adams, Jones and Rojas is just what every teenager needs to feel cool and trendy. The sleek design and ergonomic handle make it so easy to use, especially when trying to loosen those hard-to-reach screws on your little brother's toy. And with its high-quality steel construction, you can be sure it'll last through all those DIY projects you've been putting off, like fixing your broken skateboard or putting together that flat-pack bookshelf from IKEA. But wait, there's more! The screwdriver even comes with a handy lifetime warranty, which is perfect for when you inevitably lose it in your messy bedroom. All in all, this screwdriver is a total game-changer for any teen looking to add some excitement to their tool collection. Highly recommend!"
+}

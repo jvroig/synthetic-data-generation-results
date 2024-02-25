@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a tech enthusiast.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Adams, Jones and Rojas Screwdriver",
+  "review": "Wow, this Adams, Jones and Rojas Screwdriver is truly a game-changer. As a tech enthusiast, I can't tell you how excited I am to have a screwdriver that is so 'versatile' it can only turn one type of screw. And the weight! Oh boy, it's like holding a brick in your hand. I'm sure the extra heft is really helping me get those delicate electronics apart. The ergonomic handle? More like a handle that ergonomically fits into the palm of your hand and causes blisters after a few minutes of use. But hey, at least it's got a cool-looking design on the shaft. I guess when it comes to turning screws, it's definitely doing something... just maybe not what I was hoping for."
+}

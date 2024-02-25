@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be slightly positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a professional corporate worker.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Lee and Sons Sofa",
+	"review": "I recently purchased the Lee and Sons Sofa for my home office and I am quite pleased with my decision. The sofa is well-constructed with a sturdy frame and comfortable cushions, providing a perfect spot to relax during my work breaks. The design is simple yet elegant, making it a great addition to my professional space. The fabric is also easy to clean, which is a must for a busy corporate worker like me. While it may be a bit on the pricier side, the quality and comfort it provides are well worth the investment. I would highly recommend the Lee and Sons Sofa to any corporate worker looking to add a touch of sophistication and comfort to their home office."

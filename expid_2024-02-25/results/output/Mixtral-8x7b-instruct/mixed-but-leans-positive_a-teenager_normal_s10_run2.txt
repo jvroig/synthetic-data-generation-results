@@ -1,0 +1,15 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Lee and Sons Sofa",
+  "review": "I've had the Lee and Sons Sofa for a couple of months now and I have mixed feelings about it. On the positive side, the sofa is really comfortable and perfect for lounging around while watching TV or playing video games. The material is also soft and feels high-quality. However, I do wish it was a bit bigger as it can be a bit cramped when more than one person wants to sit on it. The color I chose, while cool, also shows dirt and stains easily, which is a bit of a bummer. Overall, I would still recommend this sofa to anyone looking for a comfortable and stylish seating option."
+}

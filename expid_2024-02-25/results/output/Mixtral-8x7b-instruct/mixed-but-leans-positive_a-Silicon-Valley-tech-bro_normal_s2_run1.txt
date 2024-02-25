@@ -1,0 +1,15 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mixed but leans positive.
+The review must be 2 sentences long.
+The review must be written from the perspective of a Silicon Valley tech bro.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "The Carpenter-Stephens Android Phone has some impressive specs that any tech bro would appreciate, like its top-notch processor and high-resolution screen. However, its camera doesn't quite measure up to other flagship phones, and the battery life could be better. Overall, it's a solid choice if you're looking for a powerful Android device that doesn't break the bank."
+}

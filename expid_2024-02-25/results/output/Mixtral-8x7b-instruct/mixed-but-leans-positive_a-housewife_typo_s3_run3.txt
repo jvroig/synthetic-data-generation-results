@@ -1,0 +1,19 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans positive.
+The review must be 3 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Adams, Jones and Rojas Screwdriver",
+	"review": "I got the Adams, Jones and Rojas Screwdriver and it's a realy gud tool for around the house. The grip is comfortable and the quality is top-notch, but I found out it only has 3 bits which is a bit of a bummer. I recommend it for light duty tasks."
+```diff
+- 'realy' is a typo of 'really'
+- 'gud' is a typo of 'good'
+- 'bummer' is used informally to express disappointment
+```

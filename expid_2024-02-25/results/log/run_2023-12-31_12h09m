@@ -1,0 +1,4914 @@
+*******************
+2023-12-31 12:09:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:09:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:09:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:09:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:09:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:09:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:09:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:09:37
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:09:41
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:09:45
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:09:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:09:54
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:09:58
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:10:03
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 2
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:10:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:10:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:10:17
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:10:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:10:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:10:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:10:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:10:37
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:10:41
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:10:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:10:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:10:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:11:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:11:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 3
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:11:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:11:17
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:11:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:11:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:11:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:11:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:11:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:11:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:11:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:11:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:11:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:12:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:12:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:12:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 4
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:12:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:12:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:12:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:12:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:12:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:12:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:12:37
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:12:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:12:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:12:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:12:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:13:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:13:03
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:13:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 5
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:13:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:13:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:13:23
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:13:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:13:32
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:13:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:13:41
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:13:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:13:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:13:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:14:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:14:04
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:14:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:14:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 6
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:14:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:14:22
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:14:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:14:32
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:14:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:14:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:14:44
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:14:50
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:14:54
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:14:59
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:15:04
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:15:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:15:11
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:15:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 7
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:15:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:15:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:15:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:15:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:15:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:15:44
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:15:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:15:54
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:15:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:16:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:16:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:16:11
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:16:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:16:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 8
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:16:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:16:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:16:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:16:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:16:44
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:16:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:16:53
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:16:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:17:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:17:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:17:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:17:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:17:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:17:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 9
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:17:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:17:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:17:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:17:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:17:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:17:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:17:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:18:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:18:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:18:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:18:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:18:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:18:22
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:18:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 10
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:18:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:18:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:18:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:18:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:18:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:18:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:18:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:19:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:19:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:19:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:19:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:19:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:19:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:19:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 11
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:19:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:19:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:19:54
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:19:58
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:20:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:20:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:20:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:20:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:20:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:20:23
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:20:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:20:32
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:20:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:20:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 12
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:20:45
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:20:50
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:20:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:20:59
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:21:03
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:21:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:21:11
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:21:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:21:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:21:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:21:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:21:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:21:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:21:41
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 13
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:21:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:21:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:21:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:21:59
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:22:04
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:22:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:22:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:22:17
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:22:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:22:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:22:32
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:22:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:22:41
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:22:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 14
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:22:50
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:22:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:22:58
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:23:03
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:23:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:23:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:23:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:23:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:23:23
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:23:28
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:23:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:23:37
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:23:41
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:23:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 15
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:23:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:23:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:23:59
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:24:03
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:24:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:24:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:24:17
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:24:23
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:24:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:24:32
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:24:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:24:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:24:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:24:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 16
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:24:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:25:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:25:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:25:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:25:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:25:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:25:22
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:25:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:25:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:25:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:25:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:25:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:25:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:25:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 17
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:26:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:26:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:26:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:26:13
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:26:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:26:22
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:26:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:26:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:26:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:26:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:26:45
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:26:49
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:26:54
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:27:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 18
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:27:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:27:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:27:13
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:27:17
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:27:22
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:27:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:27:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:27:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:27:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:27:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:27:49
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:27:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:27:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:28:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 19
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:28:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:28:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:28:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:28:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:28:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:28:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:28:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:28:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:28:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:28:49
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:28:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:28:59
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:29:04
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:29:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 20
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:29:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:29:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:29:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:29:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:29:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:29:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:29:44
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:29:50
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:29:53
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:29:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:30:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:30:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:30:11
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:30:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 21
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:30:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:30:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:30:28
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:30:32
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:30:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:30:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:30:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:30:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:30:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:31:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:31:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:31:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:31:13
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:31:17
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 22
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:31:22
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:31:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:31:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:31:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:31:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:31:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:31:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:31:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:31:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:32:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:32:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:32:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:32:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:32:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 23
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:32:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:32:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:32:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:32:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:32:45
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:32:49
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:32:54
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:33:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:33:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:33:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:33:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:33:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:33:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:33:28
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 24
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:33:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:33:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:33:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:33:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:33:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:33:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:33:59
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:34:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:34:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:34:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:34:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:34:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:34:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:34:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 25
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:34:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:34:44
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:34:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:34:53
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:34:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:35:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:35:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:35:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:35:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:35:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:35:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:35:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:35:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:35:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 26
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:35:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:35:50
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:35:53
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:35:58
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:36:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:36:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:36:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:36:17
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:36:21
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:36:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:36:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:36:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:36:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:36:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 27
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:36:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:36:53
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:36:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:37:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:37:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:37:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:37:11
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:37:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:37:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:37:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:37:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:37:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:37:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:37:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 28
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:37:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:37:54
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:37:58
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:38:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:38:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:38:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:38:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:38:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:38:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:38:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:38:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:38:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:38:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:38:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 29
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:38:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:38:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:39:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:39:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:39:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:39:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:39:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:39:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:39:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:39:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:39:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:39:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:39:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:39:47
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 30
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:39:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:39:58
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:40:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:40:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:40:11
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:40:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:40:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:40:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:40:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:40:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:40:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:40:44
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:40:49
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:40:53
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 31
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:40:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:41:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:41:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:41:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:41:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:41:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:41:23
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:41:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:41:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:41:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:41:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:41:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:41:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:41:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 32
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:42:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:42:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:42:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:42:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:42:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:42:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:42:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:42:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:42:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:42:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:42:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:42:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:42:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:42:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 33
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:43:03
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:43:07
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:43:12
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:43:16
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:43:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:43:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:43:28
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:43:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:43:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:43:43
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:43:49
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:43:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:43:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:44:01
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 34
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:44:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:44:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:44:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:44:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:44:23
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:44:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:44:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:44:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:44:40
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:44:45
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:44:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:44:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:45:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:45:04
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 35
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:45:10
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:45:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:45:19
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:45:23
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:45:27
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:45:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:45:36
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:45:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:45:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:45:51
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:45:56
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:46:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:46:04
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:46:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 36
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:46:14
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:46:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:46:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:46:29
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:46:33
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:46:37
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:46:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:46:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:46:50
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:46:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:47:00
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:47:03
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:47:08
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:47:13
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 37
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:47:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:47:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:47:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:47:34
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:47:38
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:47:42
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:47:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:47:53
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:47:57
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:48:05
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:48:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:48:13
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:48:18
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:48:22
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 38
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:48:26
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:48:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:48:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:48:39
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:48:44
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:48:48
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:48:52
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:48:58
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:49:02
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:49:06
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:49:11
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:49:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:49:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:49:24
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 39
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:49:30
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: strongly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:49:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: strongly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:49:41
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: slightly positive
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:49:46
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: slightly positive
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:49:50
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: strongly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:49:55
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: strongly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:49:59
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: strongly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:50:04
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: slightly negative
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:50:09
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: slightly negative
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:50:15
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: slightly negative
+Variant: sarcastic
+Done!
+-------------------
+*******************
+2023-12-31 12:50:20
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: neutral or indifferent
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:50:25
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: neutral or indifferent
+Variant: typo
+Done!
+-------------------
+*******************
+2023-12-31 12:50:31
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: mixed
+Variant: normal
+Done!
+-------------------
+*******************
+2023-12-31 12:50:35
+Now running: Mixtral-8x7b-instruct
+Temperature: 0.6
+Run: 40
+Sentiment: mixed
+Variant: typo
+Done!
+-------------------

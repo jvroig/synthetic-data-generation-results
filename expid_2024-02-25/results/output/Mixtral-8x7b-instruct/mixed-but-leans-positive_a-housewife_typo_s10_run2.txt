@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Lee and Sons Sofa",
+  "review": "I've had the Lee and Sons Sofa for a few months now and it's been a real joy to have in my living room. The cushions are super comfy, perfect for lounging around on lazy Sundays. The build quality is also great, it's sturdy and well-made, which is important with kids around. However, I did find a few flaws. The armrests are a bit too low for my liking, and the color I ordered was a bit different than what I expected, more of a dull gray than a soft blue. But overall, it's a great addition to our home and I would recommend it to anyone looking for a new sofa."
+}

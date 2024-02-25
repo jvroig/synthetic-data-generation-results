@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a tech enthusiast.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Lee and Sons Sofa",
+	"review": "Wow, this Lee and Sons Sofa is really something else. It's the perfect addition to any tech enthusiast's living room, with its state-of-the-art design from the 18th century. I mean, who needs reclining features or built-in USB chargers when you can have hand-carved wooden accents and a scratchy, itchy fabric that will transport you back in time? And let's not forget about the durability - this thing is so sturdy, it's like sitting on a rock. Sure, it might not be the most comfortable place to binge-watch your favorite sci-fi shows, but hey, at least it'll last for centuries, right? All in all, I'd highly recommend this sofa to anyone who wants to take their technology use back to the Stone Age."

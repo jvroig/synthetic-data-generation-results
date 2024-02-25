@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a social media influencer.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+"product\_name": "Carpenter-Stephens Android Phone",
+"review": "I've been trying out the Carpenter-Stephens Android Phone for a while now, and I have to say, my experience has been a bit of a mixed bag. On the one hand, the phone has a sleek design and a vibrant display that's easy on the eyes. The camera also takes decent pictures, and the battery life is pretty solid. However, there have been some significant drawbacks that I can't ignore. The phone's performance can be sluggish at times, and the interface isn't as intuitive as I would have hoped. Additionally, the speakers are disappointingly weak, and the phone's overall build quality feels a bit cheap. While I wanted to love this phone, I can't help but feel let down by its shortcomings. Ultimately, I'd recommend looking elsewhere unless you're willing to tolerate some frustrating quirks."
+}

@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a professional corporate worker.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Lee and Sons Sofa",
+	"review": "I've had the Lee and Sons Sofa in my home office for several months now, and my experience has been a bit mixed. On the positive side, the sofa's sleek design and high-quality materials give it a professional and sophisticated look that matches the rest of my office decor. Additionally, the cushions are comfortable and supportive, which is important for long hours of work. However, there have been some issues with the sofa's durability. After only a few months of use, I've noticed some wear and tear on the fabric, and the armrests have become loose. Furthermore, the sofa is quite heavy and difficult to move around, which can be a hassle when rearranging my office space. Overall, while the Lee and Sons Sofa has some positive qualities, its durability concerns and lack of mobility are major drawbacks for a professional corporate worker."

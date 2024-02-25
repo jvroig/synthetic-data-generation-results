@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mixed but leans positive.
+The review must be 5 sentences long.
+The review must be written from the perspective of a professional corporate worker.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "I've been usng the Carpenter-Stephens Andorid Phne for a few weeks now and I must say, it's a solid device. The build qualty is excelent, and the overal design is sleek and profesional. The battry life is also impresive, lasting me well over a day with heavy use. However, I did encouter some issues with the softwar sometimes freezing or crashing. But, after a few software updates, the issues seemed to have been resolvd. All in all, I'm pleased with this phone and would recommend it to other corporate workers."
+}

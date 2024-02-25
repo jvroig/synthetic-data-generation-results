@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of an asshole.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+    "product\_name": "Adams, Jones and Rojas Screwdriver",
+    "review": "Wow, this Adams, Jones and Rojas Screwdriver is really something else. The handle is so uncomfortable to hold, it's like they designed it specifically to cause hand cramps. And the tip? Don't even get me started. It's so dull, I've had more success opening cans with my teeth. But hey, at least it looks pretty on my tool shelf. I guess if you're in the market for a screwdriver that's more style than substance, this is the one for you."
+}

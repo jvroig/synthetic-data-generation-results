@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be slightly negative.
+The review must be 3 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Lee and Sons Sofa",
+  "review": "Oh boy, this Lee and Sons Sofa is just the epitome of comfort and style. I mean, what teenager doesn't want a sofa that looks like it belongs in their grandparents' living room? And the springs! They're so stiff, they're practically giving me a core workout. Totally worth the investment."
+}

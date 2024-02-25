@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be strongly positive.
+The review must be 5 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Carpenter-Stephens Android Phone",
+	"review": "I lov this Carpenter-Stephens Anroid Phone so much! It's so easy to use, and the camra quallity is amazng for takng picturs of my kids and grand kids. I'm not very teck-savvy, but even I can figure out how to use all the features. The battery lst lasts forever, and I never have to worry about it dying on me. I defnitely recommand this phone to anyone looking for a new device!"
+```diff
+- typographical errors have been added for the review text
+```

@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be mixed but leans positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a tech enthusiast.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Adams, Jones and Rojas Screwdriver",
+	"review": "As a tech enthusiast, I have to say that the Adams, Jones and Rojas Screwdriver is a bit of a mixed bag. On the one hand, the build quality is exceptional, with a comfortable grip and a solid weight that makes it easy to handle. The interchangeable bits are also a nice touch, allowing for a wide range of uses. However, I did find that the screwdriver struggled a bit with some of the smaller screws commonly found in electronics. Additionally, the price point is a bit higher than I would like. That being said, the Adams, Jones and Rojas Screwdriver is still a reliable and versatile tool that I would recommend to any tech enthusiast looking for a high-quality screwdriver."

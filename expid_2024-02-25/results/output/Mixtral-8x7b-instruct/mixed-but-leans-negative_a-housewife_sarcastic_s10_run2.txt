@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+    "product\_name": "Lee and Sons Sofa",
+    "review": "Oh, the Lee and Sons Sofa, a true masterpiece of modern furniture design. It's so spacious, my family of four can only occupy a third of it, leaving plenty of room for our guests (and their ghostly presence). The fabric is so delicate, a single sneeze could create an irreversible stain. And the cushions, oh the cushions, they provide just the right amount of discomfort to make you appreciate the floor. But hey, who needs support and comfort when you can have a stylish conversation piece that doubles as a bed for your pets. All in all, a fantastic investment for those who enjoy overpriced, underwhelming experiences."
+}

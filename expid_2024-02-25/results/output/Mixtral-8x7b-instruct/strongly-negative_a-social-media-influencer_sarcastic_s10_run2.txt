@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be strongly negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a social media influencer.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Lee and Sons Sofa",
+	"review": "Wow, where do I even begin with this Lee and Sons Sofa? I mean, it's not often that I come across a product that is such a masterclass in how to do EVERYTHING wrong. The 'cushions' feel like they're filled with bricks, and the 'leather' looks more like something you'd find on a budget boot than a high-end sofa. And don't get me started on the 'sturdy construction' - I'm pretty sure my toddler could disassemble it with a plastic spoon. Oh, and did I mention that it smells like a chemical factory? Thanks, but I think I'll pass on this 'luxury' piece. #SofaFail #NotRecommended"

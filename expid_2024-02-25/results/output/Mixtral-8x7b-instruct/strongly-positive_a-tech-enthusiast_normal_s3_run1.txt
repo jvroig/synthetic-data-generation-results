@@ -1,0 +1,15 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be strongly positive.
+The review must be 3 sentences long.
+The review must be written from the perspective of a tech enthusiast.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Carpenter-Stephens Android Phone",
+  "review": "The Carpenter-Stephens Android Phone is a game-changer for tech enthusiasts. Its powerful performance, sleek design, and innovative features make it a standout in the market. The seamless integration of Android OS and the top-notch hardware is truly remarkable, making this phone a must-have for any tech aficionado."
+}

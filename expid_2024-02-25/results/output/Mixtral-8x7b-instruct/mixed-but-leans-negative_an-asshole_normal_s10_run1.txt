@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of an asshole.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+"product\_name": "Carpenter-Stephens Android Phone",
+"review": "I got the Carpenter-Stephens Android Phone and I have to say, I'm underwhelmed. Sure, it has all the features you'd expect from a modern smartphone, but the user interface is clunky and unintuitive. The camera is subpar, and the battery life is abysmal. I also hate the proprietary charging port - why can't they just use USB-C like everyone else? The only thing I really like about this phone is the fingerprint scanner, which is surprisingly fast and accurate. But honestly, I wouldn't recommend this phone to anyone unless they're looking for a cheap and disposable device. Save your money and get something better."
+}

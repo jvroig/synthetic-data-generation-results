@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be slightly negative.
+The review must be 5 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Carpenter-Stephens Android Phone",
+	"review": "I got this Carpenter-Stephens Anrdoid phone for my bday but I'm a bit let down. The camra quality is just ok, not as good as I hoped. Battery drains fast, even when I'm not using it much. The touch screen is sometimes unresponsive, makes gaming a pain. I thought it would be better since it's a new model, but guess not. I'm still figuring out how to use all the features, so maybe it'll get better."

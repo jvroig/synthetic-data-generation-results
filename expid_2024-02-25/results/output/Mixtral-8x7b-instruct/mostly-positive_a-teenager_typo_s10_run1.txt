@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mostly positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "I looove my new Carpenter-Stephens Andriod phone! The camera quallity is amazng, and I can take so many pics with my frnds. I really like the big screen, its perfect for playng games and watchng videos. The battry lats a long time, so I dont have to charge it evryday. The fingerprint sensor is rly cool, it unlocks my phone in secconds. I didnt have any problems setting it up, it was rly easy. I definetly recommend this phone to anyone looking for a new Andriod phone. Theres only one thing I would change, the earphones that came with it arent the best, but overall its a gr8 phone!"
+}

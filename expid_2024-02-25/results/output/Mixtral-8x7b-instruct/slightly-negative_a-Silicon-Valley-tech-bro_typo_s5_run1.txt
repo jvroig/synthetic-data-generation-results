@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be slightly negative.
+The review must be 5 sentences long.
+The review must be written from the perspective of a Silicon Valley tech bro.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Carpenter-Stephens Android Phone",
+	"review": "I gotta say, I'm a bit disappointed in the Carpenter-Stephens Android Phone. I mean, it's got a decent processor, but the battery life is just not up to par. And the camera? Don't even get me started. I mean, for a Silicon Valley tech bro like me, I expect better. The design is also a bit meh. I was expecting more from Carpenter-Stephens. Maybe they'll step up their game next time."
+```bash
+

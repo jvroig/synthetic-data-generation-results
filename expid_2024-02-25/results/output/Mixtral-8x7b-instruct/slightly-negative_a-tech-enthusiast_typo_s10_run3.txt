@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be slightly negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a tech enthusiast.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+  "product_name": "Adams, Jones and Rojas Screwdriver",
+  "review": "I was really excited to try out the Adams, Jones and Rojas Screwdriver, but unfortunately, my experince was less than stellar. The build quality felt a bit flimsy, and the grip wasn't as comfortable as I would have liked. Additionally, the screwdriver didn't seem to fit into the screws as snugly as I would have expected. The magnetic tip, which was advertised as a key feature, also didn't seem to hold the screws as securely as I would have hoped. The LED light on the handle was a nice touch, but it didn't make up for the other issues I encountered. Overall, I was a bit disappointed with this product."
+}

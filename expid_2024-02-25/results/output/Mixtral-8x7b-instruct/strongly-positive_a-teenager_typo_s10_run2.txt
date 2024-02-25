@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be strongly positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Lee and Sons Sofa",
+  "review": "OMG! I just looove my new Lee and Sons Sofa! It's super comfy and perfect for chillin' with my friends. The cushions r so soft n fluffy, it's like sittin' on a cloud. I even take naps on it after school, it's that comfy! The color is amazin' too, it really matches my room decor. I've had it for a few months now and it still looks brand new, very durble. I highly recommend Lee and Sons Sofa to anyone who wants a super comfy and stylish sofa. You won't regret it!"
+}

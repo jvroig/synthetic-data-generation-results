@@ -1,0 +1,15 @@
+Prompt:
+<s>[INST] Create a product review for this product: Adams, Jones and Rojas Screwdriver.              
+The review sentiment must be strongly negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a teenager.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Adams, Jones and Rojas Screwdriver",
+  "review": "This screwdriver is the worst tool I've ever used. First of all, it's way too heavy for me to handle. I couldn't even turn the screws without struggling. And the grip is so uncomfortable, my hand started cramping after a few minutes. Plus, the screwdriver kept slipping out of the screws, which made the whole process so much more frustrating. I also noticed that the blade is already starting to rust, even though I only used it a few times. And to top it all off, it didn't even come with a case to store it in. I wouldn't recommend this screwdriver to anyone, especially not to other teenagers who are looking for a reliable tool to use. Save your money and invest in something that will actually work."
+}

@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be slightly negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a tech enthusiast.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Lee and Sons Sofa",
+  "review": "Wow, this Lee and Sons Sofa is truly a technological marvel. I mean, who needs adjustable lumbar support or heating pads when you can have a good old-fashioned cushion? And why bother with built-in speakers or USB charging ports when you can just get up and walk over to your sound system or power outlet? Sure, it might not have any of the features I've come to expect from my furniture, but it does have a certain retro charm. I guess if you're looking for a sofa that will transport you back to the 19th century, this is the one for you. Just don't expect me to use it as anything other than a conversation piece."
+}

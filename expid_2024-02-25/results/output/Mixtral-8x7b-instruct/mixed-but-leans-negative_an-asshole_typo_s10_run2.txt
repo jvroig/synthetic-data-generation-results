@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Lee and Sons Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of an asshole.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+ {
+"product\_name": "Lee and Sons Sofa",
+"review": "I gotta say, this Lee and Sons sofa is just meh. I mean, it looks alright, I guess. But as soon as I sat down on it, I felt a spring poking into my back. Who needs a comfortable sofa anyway, right? And the cushions, they're as hard as a rock. But hey, at least it matches my decor. Sort of. I mean, it's not like I expected much from a sofa made by a company with such a ridiculous name. But still, I've had better sofas from the thrift store. Total waste of money."
+}

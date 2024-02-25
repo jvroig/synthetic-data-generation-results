@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be strongly negative.
+The review must be 10 sentences long.
+The review must be written from the perspective of a housewife.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+    Additionally, the review should be sarcastic.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Carpenter-Stephens Android Phone",
+	"review": "Wow, where do I even begin with this marvel of modern technology? As a housewife, I was thrilled to discover the Carpenter-Stephens Android Phone, which is just as reliable as a 1950s rotary dial. The battery life is truly unmatched - it can hold a charge for approximately 2 hours, perfect for that important call you need to make in the middle of the day! And let's not forget about the camera, which captures photos so grainy, you'll think you've traveled back in time to the era of disposable cameras. But the pièce de résistance is the user interface - it's so slow and clunky, I'm pretty sure my toddler could navigate it better than I can. All in all, this phone is a must-have for any technophobe looking to take a break from the modern world."

@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be strongly positive.
+The review must be 3 sentences long.
+The review must be written from the perspective of a professional corporate worker.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Carpenter-Stephens Android Phone",
+	"review": "I luv the Carpenters-Stephens Andriod Phone! As a busy corporat worker, its fast performanc and sleek design rly stands out. The long battery life is a game changer, I dont hafta worry abt chargin it evryday. Highly recomend!"
+}
+
+Note: The review text includes intentional typos such as "luv", "Andriod", "corporat", "rly", "evryday", and "recomend" to reflect a more casual writing style.

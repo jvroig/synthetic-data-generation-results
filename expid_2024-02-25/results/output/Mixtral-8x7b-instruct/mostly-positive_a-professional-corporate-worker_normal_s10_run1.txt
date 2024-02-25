@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be mostly positive.
+The review must be 10 sentences long.
+The review must be written from the perspective of a professional corporate worker.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product\_name": "Carpenter-Stephens Android Phone",
+	"review": "I've been using the Carpenter-Stephens Android Phone for my corporate work for a few weeks now and I am thoroughly impressed. The device has a sleek design, making it perfect for professional settings. The phone's battery life is excellent, lasting me an entire workday with moderate to heavy use. The camera quality is top-notch, allowing me to capture clear and crisp images during client meetings. The device's processing power is also impressive, enabling me to run multiple business apps simultaneously without any lag. I particularly appreciate the fingerprint sensor, which adds an extra layer of security to my work data. The phone's display is bright and clear, making it easy for me to read and respond to emails. My only minor complaint is the speaker volume could be a bit louder for conference calls, but overall, I highly recommend the Carpenter-Stephens Android Phone for any corporate worker."

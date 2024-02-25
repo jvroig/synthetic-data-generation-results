@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Carpenter-Stephens Android Phone.              
+The review sentiment must be strongly negative.
+The review must be 5 sentences long.
+The review must be written from the perspective of a social media influencer.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Additionally, the review text should include a few common typographical errors.
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Carpenter-Stephens Android Phone",
+  "review": "I've got to say, I'm really disappointed in the Carpenter-Stephens Android Phone. Battery life is reallly bad, like I can't even make it through a day without charging. And the camera quality is terribble, forget about taking any good pics with this thing. To make matters worse, the touchscreen is unresposive at times and it's driving me nuts! I can't believ how many issues I've had with this phone. I definetly can't recommend it to any of my followers."
+}
