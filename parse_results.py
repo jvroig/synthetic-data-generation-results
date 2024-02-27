@@ -48,7 +48,7 @@ def process_directory(directory_path, output_csv):
 
 # Replace 'input_directory_path' and 'output_csv_path' with actual directory paths
 input_directory_path = 'expid_2024-02-25/output/Mixtral-8x7b-instruct/'
-output_csv_path = 'output.csv'
+output_csv_path = 'parsed_output.csv'
 
 process_directory(input_directory_path, output_csv_path)
 process_directory(input_directory_path, output_csv_path)
