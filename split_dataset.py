@@ -7,7 +7,7 @@ eval_ratio       = 0.2
 test_ratio       = 0.2
 
 #Specifying fixed sizes for a set will override the ratio for it
-fixed_train_size = 1024
+fixed_train_size = 0 #Useful if you want a specific number for your dataset
 #fixed_eval_size  = 0 #Might be a future feature
 #fixed_test_size  = 0 #Might be a future feature
 
