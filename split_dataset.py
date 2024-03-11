@@ -10,12 +10,12 @@ output_eval_path = 'dataset_eval.csv'
 output_test_path = 'dataset_test.csv'
 
 
-train_ratio      = 0.6
-eval_ratio       = 0.2
-test_ratio       = 0.2
+train_ratio      = 0.90
+eval_ratio       = 0.05
+test_ratio       = 0.05
 
 #Specifying fixed sizes for a set will override the ratio for it
-fixed_train_size = 1024 #Useful if you want a specific number for your dataset
+fixed_train_size = 0 #Useful if you want a specific number for your dataset
 #fixed_eval_size  = 0 #Might be a future feature
 #fixed_test_size  = 0 #Might be a future feature
 

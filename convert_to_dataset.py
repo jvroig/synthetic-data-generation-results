@@ -7,12 +7,12 @@ output_csv_path = 'dataset.csv'
 
 # Lookup table for converting original sentiment to final sentiment
 sentiment_conversion = {
-    'strongly positive': 'Strongly Positive',
-    'mostly positive': 'Strongly Positive',
+    'strongly positive': 'Positive',
+    'mostly positive': 'Positive',
     'slightly positive': 'Slightly Positive',
     'mixed but leans positive': 'Slightly Positive',
-    'strongly negative': 'Strongly Negative',
-    'mostly negative': 'Strongly Negative',
+    'strongly negative': 'Negative',
+    'mostly negative': 'Negative',
     'slightly negative': 'Slightly Negative',
     'mixed but leans negative': 'Slightly Negative'
 }
@@ -29,12 +29,14 @@ Review text:
 ```
 
 Overall sentiment must be one of the following options:
-- Strongly Positive
+- Positive
 - Slightly Positive
-- Strongly Negative
+- Negative
 - Slightly Negative
 
 What is the overall sentiment of that product review?
+
+Choose from the options above. Do not explain your answer. Do not include any punctation.
 
 Answer:"""
 
