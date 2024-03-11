@@ -1,0 +1,1001 @@
+ID,Rating,Label
+1,5,Positive
+2,2,Negative
+3,3,Slightly Negative
+4,1,Negative
+5,1,Negative
+6,1,Negative
+7,5,Positive
+8,4,Positive
+9,3,Slightly Negative
+10,2,Slightly Negative
+11,5,Slightly Positive
+12,5,Slightly Negative
+13,3,Slightly Negative
+14,5,Positive
+15,4,Positive
+16,2,Negative
+17,1,Negative
+18,5,Positive
+19,5,Positive
+20,5,Positive
+21,1,Negative
+22,1,Negative
+23,1,Negative
+24,5,Positive
+25,4,Positive
+26,5,Positive
+27,4,Positive
+28,1,Negative
+29,2,Slightly Negative
+30,5,Positive
+31,5,Neutral
+32,5,Positive
+33,5,Positive
+34,5,Positive
+35,5,Positive
+36,1,Negative
+37,4,Slightly Negative
+38,5,Positive
+39,5,Positive
+40,5,Positive
+41,5,Positive
+42,1,Negative
+43,5,Positive
+44,5,Positive
+45,3,Slightly Negative
+46,3,Negative
+47,5,Positive
+48,5,Positive
+49,5,Positive
+50,1,Negative
+51,1,Negative
+52,5,Positive
+53,1,Negative
+54,1,Negative
+55,4,Positive
+56,1,Negative
+57,2,Negative
+58,1,Negative
+59,1,Negative
+60,1,Negative
+61,1,Negative
+62,1,Negative
+63,4,Positive
+64,2,Negative
+65,2,Negative
+66,2,Negative
+67,3,Negative
+68,4,Positive
+69,1,Slightly Negative
+70,1,Negative
+71,4,Slightly Positive
+72,3,Slightly Negative
+73,3,Slightly Negative
+74,1,Negative
+75,2,Negative
+76,5,Positive
+77,1,Negative
+78,3,Slightly Negative
+79,5,Positive
+80,1,Negative
+81,3,Slightly Negative
+82,5,Positive
+83,5,Positive
+84,1,Negative
+85,4,Positive
+86,3,Slightly Positive
+87,3,Slightly Negative
+88,4,Positive
+89,4,Positive
+90,5,Negative
+91,4,Positive
+92,4,Positive
+93,3,Positive
+94,1,Negative
+95,1,Negative
+96,5,Positive
+97,5,Positive
+98,4,Positive
+99,4,Positive
+100,4,Positive
+101,5,Positive
+102,1,Negative
+103,3,Positive
+104,4,Slightly Positive
+105,4,Positive
+106,4,Positive
+107,5,Positive
+108,1,Negative
+109,2,Negative
+110,2,Slightly Negative
+111,2,Negative
+112,4,Positive
+113,5,Positive
+114,5,Positive
+115,5,Slightly Positive
+116,5,Positive
+117,3,Positive
+118,1,Negative
+119,2,Negative
+120,2,Negative
+121,5,Positive
+122,5,Positive
+123,1,Negative
+124,4,Slightly Negative
+125,3,Slightly Positive
+126,3,Slightly Negative
+127,2,Negative
+128,1,Negative
+129,2,Negative
+130,1,Negative
+131,5,Positive
+132,1,Negative
+133,4,Positive
+134,1,Negative
+135,3,Negative
+136,1,Negative
+137,3,Negative
+138,5,Positive
+139,4,Slightly Negative
+140,3,Negative
+141,2,Negative
+142,3,Negative
+143,3,Negative
+144,1,Negative
+145,5,Positive
+146,3,Negative
+147,2,Negative
+148,3,Slightly Negative
+149,1,Negative
+150,5,Positive
+151,1,Negative
+152,1,Negative
+153,2,Slightly Negative
+154,2,Negative
+155,1,Negative
+156,2,Negative
+157,2,Negative
+158,2,Positive
+159,5,Positive
+160,5,Positive
+161,3,Slightly Negative
+162,3,Slightly Positive
+163,4,Positive
+164,2,Negative
+165,4,Slightly Positive
+166,1,Negative
+167,4,Slightly Positive
+168,5,Positive
+169,2,Positive
+170,2,Negative
+171,4,Positive
+172,1,Negative
+173,1,Negative
+174,2,Positive
+175,4,Positive
+176,4,Positive
+177,4,Positive
+178,4,Positive
+179,4,Slightly Positive
+180,4,Positive
+181,3,Slightly Negative
+182,3,Slightly Positive
+183,3,Slightly Positive
+184,4,Slightly Negative
+185,2,Slightly Negative
+186,2,Slightly Negative
+187,5,Positive
+188,3,Slightly Negative
+189,4,Positive
+190,3,Slightly Positive
+191,5,Positive
+192,3,Slightly Positive
+193,4,Positive
+194,4,Positive
+195,4,Positive
+196,3,Slightly Negative
+197,3,Negative
+198,4,Positive
+199,4,Positive
+200,5,Positive
+201,4,Positive
+202,2,Negative
+203,2,Slightly Negative
+204,4,Positive
+205,4,Positive
+206,4,Positive
+207,4,Positive
+208,4,Positive
+209,4,Positive
+210,5,Positive
+211,3,Positive
+212,3,Slightly Positive
+213,5,Positive
+214,5,Positive
+215,4,Slightly Positive
+216,5,Positive
+217,4,Positive
+218,5,Positive
+219,1,Slightly Negative
+220,2,Slightly Negative
+221,5,Positive
+222,3,Positive
+223,4,Positive
+224,5,Positive
+225,3,Slightly Negative
+226,4,Positive
+227,4,Positive
+228,4,Slightly Negative
+229,4,Positive
+230,3,Slightly Negative
+231,1,Negative
+232,2,Negative
+233,2,Negative
+234,2,Negative
+235,4,Negative
+236,3,Slightly Negative
+237,5,Slightly Positive
+238,3,Negative
+239,2,Slightly Negative
+240,4,Slightly Positive
+241,3,Negative
+242,1,Negative
+243,5,Positive
+244,5,Positive
+245,3,Slightly Positive
+246,2,Negative
+247,2,Negative
+248,5,Positive
+249,5,Positive
+250,1,Negative
+251,4,Positive
+252,5,Positive
+253,2,Negative
+254,3,Slightly Negative
+255,1,Negative
+256,5,Positive
+257,3,Slightly Positive
+258,4,Positive
+259,1,Negative
+260,2,Negative
+261,2,Negative
+262,1,Negative
+263,2,Negative
+264,3,Slightly Negative
+265,3,Positive
+266,1,Negative
+267,3,Negative
+268,4,Positive
+269,2,Negative
+270,1,Negative
+271,2,Negative
+272,2,Negative
+273,4,Slightly Negative
+274,1,Negative
+275,1,Negative
+276,1,Negative
+277,4,Negative
+278,4,Positive
+279,3,Negative
+280,3,Slightly Positive
+281,4,Slightly Positive
+282,1,Negative
+283,4,Positive
+284,3,Slightly Negative
+285,5,Positive
+286,2,Negative
+287,1,Negative
+288,1,Negative
+289,1,Negative
+290,1,Negative
+291,3,Slightly Negative
+292,4,Slightly Negative
+293,3,Negative
+294,5,Positive
+295,4,Positive
+296,3,Slightly Negative
+297,4,Slightly Positive
+298,4,Positive
+299,5,Positive
+300,5,Positive
+301,1,Negative
+302,5,Positive
+303,3,Negative
+304,3,Positive
+305,3,Negative
+306,5,Positive
+307,2,Negative
+308,2,Negative
+309,5,Positive
+310,4,Positive
+311,5,Positive
+312,5,Positive
+313,2,Negative
+314,2,Negative
+315,5,Positive
+316,5,Positive
+317,1,Negative
+318,1,Negative
+319,4,Positive
+320,4,Positive
+321,2,Negative
+322,2,Negative
+323,5,Positive
+324,5,Positive
+325,4,Positive
+326,2,Negative
+327,4,Positive
+328,1,Negative
+329,5,Positive
+330,3,Slightly Negative
+331,3,Positive
+332,4,Positive
+333,4,Slightly Positive
+334,1,Negative
+335,4,Positive
+336,4,Positive
+337,4,Slightly Positive
+338,4,Slightly Negative
+339,5,Positive
+340,4,Positive
+341,5,Positive
+342,2,Negative
+343,4,Positive
+344,3,Slightly Negative
+345,5,Positive
+346,5,Positive
+347,3,Slightly Negative
+348,5,Positive
+349,2,Negative
+350,3,Slightly Negative
+351,3,Negative
+352,1,Negative
+353,2,Negative
+354,1,Negative
+355,1,Negative
+356,1,Negative
+357,5,Positive
+358,3,Negative
+359,4,Positive
+360,2,Negative
+361,2,Negative
+362,2,Negative
+363,4,Slightly Positive
+364,1,Negative
+365,2,Negative
+366,4,Slightly Negative
+367,1,Negative
+368,5,Slightly Positive
+369,2,Negative
+370,4,Slightly Positive
+371,4,Positive
+372,3,Slightly Negative
+373,4,Positive
+374,3,Negative
+375,1,Negative
+376,1,Negative
+377,5,Positive
+378,5,Positive
+379,5,Positive
+380,5,Positive
+381,2,Negative
+382,3,Negative
+383,5,Positive
+384,3,Negative
+385,1,Negative
+386,2,Negative
+387,3,Negative
+388,2,Negative
+389,2,Slightly Negative
+390,1,Negative
+391,4,Positive
+392,3,Slightly Positive
+393,2,Negative
+394,2,Negative
+395,1,Negative
+396,1,Negative
+397,3,Negative
+398,1,Negative
+399,4,Slightly Negative
+400,3,Slightly Negative
+401,3,Negative
+402,3,Slightly Negative
+403,2,Negative
+404,3,Negative
+405,2,Negative
+406,2,Slightly Negative
+407,4,Slightly Positive
+408,1,Negative
+409,5,Positive
+410,3,Slightly Negative
+411,4,Positive
+412,5,Positive
+413,2,Negative
+414,3,Negative
+415,5,Positive
+416,4,Slightly Negative
+417,5,Positive
+418,5,Positive
+419,4,Slightly Positive
+420,3,Negative
+421,4,Positive
+422,5,Positive
+423,5,Positive
+424,2,Negative
+425,2,Negative
+426,5,Positive
+427,4,Positive
+428,2,Negative
+429,4,Positive
+430,2,Negative
+431,3,Negative
+432,2,Negative
+433,5,Positive
+434,1,Negative
+435,3,Negative
+436,3,Slightly Positive
+437,4,Positive
+438,4,Slightly Positive
+439,5,Positive
+440,3,Slightly Negative
+441,2,Negative
+442,4,Slightly Negative
+443,3,Slightly Negative
+444,3,Slightly Positive
+445,4,Positive
+446,1,Negative
+447,5,Negative
+448,3,Slightly Negative
+449,5,Positive
+450,2,Negative
+451,5,Positive
+452,5,Slightly Positive
+453,5,Positive
+454,4,Slightly Negative
+455,2,Negative
+456,1,Negative
+457,2,Negative
+458,3,Negative
+459,3,Negative
+460,4,Positive
+461,1,Negative
+462,5,Positive
+463,5,Positive
+464,5,Positive
+465,3,Positive
+466,3,Negative
+467,4,Slightly Negative
+468,3,Slightly Negative
+469,1,Slightly Positive
+470,5,Positive
+471,1,Negative
+472,5,Positive
+473,1,Negative
+474,4,Negative
+475,1,Negative
+476,5,Positive
+477,2,Negative
+478,3,Slightly Negative
+479,2,Negative
+480,1,Negative
+481,2,Negative
+482,3,Positive
+483,5,Positive
+484,4,Positive
+485,5,Positive
+486,5,Positive
+487,4,Positive
+488,4,Slightly Negative
+489,1,Negative
+490,2,Negative
+491,5,Positive
+492,4,Positive
+493,5,Positive
+494,2,Negative
+495,4,Positive
+496,4,Slightly Positive
+497,4,Slightly Positive
+498,5,Positive
+499,5,Positive
+500,1,Negative
+501,5,Positive
+502,2,Slightly Negative
+503,3,Positive
+504,5,Positive
+505,5,Positive
+506,5,Positive
+507,1,Positive
+508,2,Slightly Negative
+509,5,Positive
+510,5,Positive
+511,5,Positive
+512,5,Positive
+513,5,Positive
+514,5,Positive
+515,2,Negative
+516,3,Slightly Negative
+517,2,Negative
+518,1,Negative
+519,2,Negative
+520,3,Negative
+521,3,Slightly Negative
+522,3,Slightly Negative
+523,5,Slightly Positive
+524,1,Negative
+525,5,Positive
+526,1,Negative
+527,2,Negative
+528,4,Positive
+529,1,Negative
+530,3,Slightly Negative
+531,5,Slightly Negative
+532,1,Negative
+533,2,Negative
+534,4,Slightly Positive
+535,3,Slightly Negative
+536,4,Positive
+537,4,Positive
+538,3,Positive
+539,1,Negative
+540,4,Slightly Negative
+541,5,Positive
+542,4,Positive
+543,5,Positive
+544,5,Positive
+545,4,Positive
+546,3,Slightly Negative
+547,4,Positive
+548,5,Positive
+549,5,Positive
+550,4,Slightly Negative
+551,5,Positive
+552,4,Positive
+553,2,Negative
+554,3,Slightly Negative
+555,5,Positive
+556,5,Positive
+557,4,Positive
+558,3,Slightly Negative
+559,2,Slightly Negative
+560,4,Slightly Positive
+561,4,Positive
+562,4,Slightly Positive
+563,4,Positive
+564,3,Slightly Negative
+565,4,Positive
+566,3,Slightly Positive
+567,4,Positive
+568,3,Negative
+569,4,Positive
+570,2,Negative
+571,2,Negative
+572,3,Slightly Positive
+573,3,Slightly Positive
+574,3,Negative
+575,2,Negative
+576,2,Negative
+577,3,Negative
+578,3,Negative
+579,3,Negative
+580,5,Positive
+581,3,Negative
+582,2,Slightly Negative
+583,3,Negative
+584,3,Negative
+585,1,Negative
+586,4,Slightly Negative
+587,2,Negative
+588,2,Negative
+589,3,Slightly Positive
+590,3,Neutral
+591,3,Neutral
+592,3,Slightly Negative
+593,3,Slightly Positive
+594,3,Slightly Positive
+595,2,Negative
+596,3,Negative
+597,4,Positive
+598,3,Slightly Positive
+599,3,Negative
+600,2,Negative
+601,1,Negative
+602,3,Negative
+603,4,Positive
+604,4,Positive
+605,3,Slightly Negative
+606,3,Slightly Positive
+607,1,Negative
+608,3,Negative
+609,3,Slightly Positive
+610,2,Negative
+611,2,Negative
+612,2,Slightly Negative
+613,3,Negative
+614,2,Slightly Negative
+615,4,Slightly Negative
+616,4,Positive
+617,5,Negative
+618,4,Positive
+619,5,Positive
+620,4,Positive
+621,5,Positive
+622,1,Negative
+623,4,Positive
+624,5,Positive
+625,5,Positive
+626,5,Positive
+627,1,Negative
+628,5,Positive
+629,1,Negative
+630,5,Positive
+631,5,Positive
+632,1,Negative
+633,1,Negative
+634,2,Negative
+635,2,Negative
+636,2,Negative
+637,3,Slightly Positive
+638,4,Slightly Positive
+639,3,Positive
+640,2,Negative
+641,4,Positive
+642,4,Positive
+643,1,Negative
+644,5,Positive
+645,2,Slightly Negative
+646,4,Positive
+647,4,Slightly Negative
+648,2,Negative
+649,5,Positive
+650,1,Negative
+651,2,Negative
+652,1,Negative
+653,2,Negative
+654,3,Negative
+655,3,Slightly Negative
+656,1,Negative
+657,1,Negative
+658,3,Positive
+659,4,Positive
+660,3,Slightly Negative
+661,1,Negative
+662,5,Positive
+663,2,Negative
+664,2,Negative
+665,4,Positive
+666,3,Negative
+667,4,Positive
+668,1,Negative
+669,1,Negative
+670,2,Negative
+671,1,Negative
+672,3,Slightly Negative
+673,1,Negative
+674,3,Slightly Negative
+675,3,Slightly Negative
+676,1,Negative
+677,2,Slightly Negative
+678,1,Negative
+679,4,Positive
+680,1,Negative
+681,2,Negative
+682,3,Negative
+683,2,Negative
+684,5,Positive
+685,3,Negative
+686,4,Positive
+687,1,Negative
+688,2,Negative
+689,2,Negative
+690,5,Positive
+691,4,Positive
+692,2,Negative
+693,1,Negative
+694,4,Positive
+695,1,Negative
+696,1,Negative
+697,2,Slightly Negative
+698,1,Negative
+699,4,Positive
+700,3,Slightly Negative
+701,5,Positive
+702,3,Slightly Negative
+703,4,Positive
+704,3,Negative
+705,3,Slightly Negative
+706,4,Slightly Negative
+707,2,Slightly Negative
+708,1,Negative
+709,2,Negative
+710,2,Slightly Negative
+711,2,Negative
+712,5,Positive
+713,1,Negative
+714,3,Negative
+715,3,Slightly Negative
+716,3,Slightly Negative
+717,4,Slightly Negative
+718,1,Negative
+719,1,Negative
+720,1,Negative
+721,4,Positive
+722,3,Positive
+723,2,Negative
+724,2,Slightly Negative
+725,5,Positive
+726,5,Positive
+727,2,Positive
+728,1,Negative
+729,4,Positive
+730,1,Negative
+731,4,Positive
+732,1,Negative
+733,1,Negative
+734,1,Slightly Negative
+735,1,Negative
+736,3,Negative
+737,1,Negative
+738,1,Negative
+739,2,Negative
+740,1,Negative
+741,2,Negative
+742,2,Negative
+743,2,Negative
+744,2,Negative
+745,2,Negative
+746,2,Slightly Negative
+747,2,Negative
+748,1,Negative
+749,1,Negative
+750,1,Negative
+751,1,Negative
+752,2,Negative
+753,5,Positive
+754,3,Negative
+755,2,Negative
+756,2,Negative
+757,2,Negative
+758,1,Negative
+759,2,Negative
+760,1,Negative
+761,2,Negative
+762,1,Negative
+763,2,Negative
+764,2,Negative
+765,5,Positive
+766,2,Negative
+767,1,Negative
+768,1,Negative
+769,3,Slightly Negative
+770,1,Negative
+771,1,Negative
+772,4,Positive
+773,2,Slightly Negative
+774,4,Slightly Positive
+775,2,Negative
+776,3,Slightly Negative
+777,3,Slightly Negative
+778,3,Slightly Negative
+779,2,Slightly Negative
+780,3,Slightly Negative
+781,1,Negative
+782,2,Negative
+783,1,Negative
+784,3,Negative
+785,2,Negative
+786,1,Negative
+787,3,Negative
+788,1,Negative
+789,1,Slightly Negative
+790,2,Negative
+791,2,Negative
+792,2,Negative
+793,2,Negative
+794,2,Negative
+795,2,Negative
+796,1,Negative
+797,1,Negative
+798,1,Negative
+799,4,Positive
+800,3,Positive
+801,4,Slightly Positive
+802,3,Positive
+803,2,Negative
+804,3,Positive
+805,3,Slightly Negative
+806,5,Positive
+807,5,Positive
+808,3,Slightly Negative
+809,4,Positive
+810,5,Positive
+811,3,Positive
+812,3,Slightly Negative
+813,3,Slightly Negative
+814,2,Negative
+815,4,Slightly Positive
+816,5,Positive
+817,4,Positive
+818,4,Positive
+819,4,Slightly Positive
+820,4,Slightly Positive
+821,5,Slightly Negative
+822,5,Positive
+823,5,Positive
+824,5,Positive
+825,4,Positive
+826,3,Negative
+827,4,Positive
+828,5,Positive
+829,4,Positive
+830,5,Positive
+831,4,Positive
+832,3,Slightly Negative
+833,1,Negative
+834,1,Negative
+835,5,Positive
+836,1,Negative
+837,1,Negative
+838,4,Positive
+839,5,Positive
+840,4,Slightly Positive
+841,4,Slightly Positive
+842,3,Slightly Negative
+843,3,Slightly Negative
+844,5,Positive
+845,5,Positive
+846,2,Slightly Negative
+847,5,Positive
+848,1,Negative
+849,5,Positive
+850,1,Negative
+851,1,Negative
+852,5,Positive
+853,5,Positive
+854,5,Slightly Positive
+855,4,Slightly Negative
+856,3,Positive
+857,3,Slightly Negative
+858,3,Slightly Negative
+859,5,Positive
+860,4,Positive
+861,4,Positive
+862,4,Slightly Positive
+863,3,Slightly Negative
+864,5,Positive
+865,1,Negative
+866,3,Negative
+867,1,Negative
+868,2,Negative
+869,2,Negative
+870,3,Negative
+871,5,Positive
+872,3,Negative
+873,5,Positive
+874,4,Positive
+875,1,Negative
+876,4,Positive
+877,5,Positive
+878,1,Negative
+879,1,Negative
+880,2,Negative
+881,2,Negative
+882,4,Positive
+883,3,Slightly Positive
+884,4,Slightly Positive
+885,5,Positive
+886,2,Negative
+887,5,Positive
+888,1,Negative
+889,1,Negative
+890,2,Negative
+891,3,Negative
+892,5,Positive
+893,5,Positive
+894,4,Slightly Negative
+895,4,Slightly Positive
+896,5,Positive
+897,4,Positive
+898,4,Positive
+899,5,Positive
+900,2,Negative
+901,1,Positive
+902,4,Positive
+903,4,Positive
+904,1,Negative
+905,5,Positive
+906,1,Negative
+907,1,Negative
+908,4,Positive
+909,1,Negative
+910,3,Slightly Positive
+911,4,Positive
+912,5,Positive
+913,5,Positive
+914,1,Negative
+915,5,Positive
+916,4,Positive
+917,1,Negative
+918,3,Slightly Positive
+919,3,Negative
+920,2,Negative
+921,3,Slightly Negative
+922,3,Slightly Negative
+923,2,Negative
+924,1,Negative
+925,2,Negative
+926,2,Negative
+927,5,Positive
+928,5,Negative
+929,1,Negative
+930,3,Slightly Negative
+931,4,Slightly Positive
+932,2,Negative
+933,2,Negative
+934,2,Negative
+935,1,Negative
+936,3,Positive
+937,4,Positive
+938,5,Positive
+939,4,Positive
+940,5,Positive
+941,3,Slightly Negative
+942,1,Negative
+943,1,Negative
+944,1,Negative
+945,1,Negative
+946,1,Negative
+947,2,Negative
+948,2,Negative
+949,4,Positive
+950,4,Positive
+951,3,Slightly Negative
+952,3,Negative
+953,5,Positive
+954,1,Negative
+955,1,Negative
+956,1,Negative
+957,1,Negative
+958,1,Negative
+959,1,Negative
+960,1,Negative
+961,1,Negative
+962,1,Negative
+963,2,Negative
+964,2,Slightly Positive
+965,2,Slightly Positive
+966,2,Negative
+967,2,Negative
+968,2,Slightly Negative
+969,2,Slightly Negative
+970,2,Negative
+971,2,Negative
+972,2,Negative
+973,2,Negative
+974,3,Slightly Negative
+975,3,Slightly Negative
+976,3,Slightly Negative
+977,3,Negative
+978,3,Slightly Negative
+979,3,Negative
+980,3,Negative
+981,3,Negative
+982,3,Slightly Negative
+983,3,Negative
+984,4,Positive
+985,4,Positive
+986,4,Slightly Positive
+987,1,Negative
+988,1,Negative
+989,1,Negative
+990,1,Negative
+991,2,Negative
+992,2,Slightly Negative
+993,2,Negative
+994,2,Negative
+995,2,Negative
+996,2,Negative
+997,2,Slightly Negative
+998,2,Negative
+999,2,Negative
+1000,2,Slightly Positive

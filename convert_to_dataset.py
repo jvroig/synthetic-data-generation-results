@@ -1,5 +1,10 @@
 import csv
 
+# Replace 'input_csv_path' and 'output_csv_path' with actual file paths
+input_csv_path = 'expid_2024-02-25/processed_output.csv'
+output_csv_path = 'dataset.csv'
+
+
 # Lookup table for converting original sentiment to final sentiment
 sentiment_conversion = {
     'strongly positive': 'Strongly Positive',
@@ -55,9 +60,5 @@ def process_csv(input_csv, output_csv):
         
         for item in data:
             writer.writerow(item)
-
-# Replace 'input_csv_path' and 'output_csv_path' with actual file paths
-input_csv_path = 'expid_2024-02-25/parsed_output.csv'
-output_csv_path = 'dataset.csv'
 
 process_csv(input_csv_path, output_csv_path)

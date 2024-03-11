@@ -2,12 +2,20 @@ import csv
 import random
 import os
 
+
+# Replace 'input_csv_path' and output file paths with desired paths
+input_csv_path = 'dataset.csv'
+output_train_path = 'dataset_train.csv'
+output_eval_path = 'dataset_eval.csv'
+output_test_path = 'dataset_test.csv'
+
+
 train_ratio      = 0.6
 eval_ratio       = 0.2
 test_ratio       = 0.2
 
 #Specifying fixed sizes for a set will override the ratio for it
-fixed_train_size = 0 #Useful if you want a specific number for your dataset
+fixed_train_size = 1024 #Useful if you want a specific number for your dataset
 #fixed_eval_size  = 0 #Might be a future feature
 #fixed_test_size  = 0 #Might be a future feature
 
@@ -70,14 +78,5 @@ def write_to_csv(output_csv, data):
         writer.writeheader()
         for row in data:
             writer.writerow(row)
-
-
-
-
-# Replace 'input_csv_path' and output file paths with desired paths
-input_csv_path = 'dataset.csv'
-output_train_path = 'dataset_train.csv'
-output_eval_path = 'dataset_eval.csv'
-output_test_path = 'dataset_test.csv'
 
 split_dataset(input_csv_path, output_train_path, output_eval_path, output_test_path)

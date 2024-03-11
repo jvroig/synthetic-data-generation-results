@@ -7,12 +7,12 @@ _ = load_dotenv(find_dotenv()) # read local .env file
 client = OpenAI()
 # openai.api_key  = os.getenv('OPENAI_API_KEY')
 
-def get_completion(prompt, model="gpt-3.5-turbo"):
+def get_completion(prompt, model="gpt-4-0125-preview"):
     messages = [{"role": "user", "content": prompt}]
     response = client.chat.completions.create(
         model=model,
         messages=messages,
-        temperature=1, # this is the degree of randomness of the model's output
+        temperature=0, # this is the degree of randomness of the model's output
     )
     return response.choices[0].message.content
 
@@ -37,12 +37,14 @@ with open(csv_file, 'r', newline='', encoding='utf-8') as csvfile:
         prompt += """Choose from the options above. Do not explain your answer. Do not include any punctation. 
 
 Answer:"""
-        print(prompt)
+        # print(prompt)
 
         rating = row['Rating']
-        # response = get_completion(prompt)
-        response = "Nega"
+        response = get_completion(prompt)
+        # print(response)
+
         labels.append({'ID': ctr+1, 'Rating': rating, 'Label': response}) 
+        print(f"{ctr+1},{rating},{response}")
         ctr=ctr+1
 
 
