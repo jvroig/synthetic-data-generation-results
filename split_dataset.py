@@ -4,10 +4,10 @@ import os
 
 
 # Replace 'input_csv_path' and output file paths with desired paths
-input_csv_path = 'dataset.csv'
-output_train_path = 'dataset_train.csv'
-output_eval_path = 'dataset_eval.csv'
-output_test_path = 'dataset_test.csv'
+input_csv_path = 'expid_2024-02-25/processed_output.csv'
+output_train_path = 'processed_train.csv'
+output_eval_path = 'processed_eval.csv'
+output_test_path = 'processed_test.csv'
 
 
 train_ratio      = 0.90

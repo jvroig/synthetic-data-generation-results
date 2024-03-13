@@ -1,9 +1,31 @@
 import csv
+import random
+import jsonlines
+import data_augmentation_tools as augment
 
-# Replace 'input_csv_path' and 'output_csv_path' with actual file paths
-input_csv_path = 'expid_2024-02-25/processed_output.csv'
-output_csv_path = 'dataset.csv'
+# # Define the list of augmentation functions to apply
+# augmentation_functions = [
+#     augment.random_char_insertion,
+#     augment.random_char_removal,
+#     augment.random_char_replacement,
+#     augment.random_adjacent_swap,
+#     augment.random_word_deletion,
+#     augment.random_word_insertion,
+#     augment.random_word_replacement,
+#     augment.random_sentence_deletion,
+#     augment.random_word_shuffle,
+#     augment.synonym_replacement,
+#     augment.expand_contractions,
+#     augment.noise_injection,
+#     augment.back_translation_augmentation,
+#     augment.keyboard_typos_simulation,
+#     augment.text_duplication,
+# ]
 
+split = "train"
+do_augmentation = True
+input_csv_path = 'processed_' + split + '.csv'
+output_jsonl_path = 'dataset_' + split + '.jsonl'
 
 # Lookup table for converting original sentiment to final sentiment
 sentiment_conversion = {
@@ -42,7 +64,8 @@ Answer:"""
 
     return prompt_string.strip(), final_sentiment
 
-def process_csv(input_csv, output_csv):
+        
+def process_csv(input_csv, output_jsonl, do_augmentation=False):
     with open(input_csv, 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         
@@ -53,14 +76,21 @@ def process_csv(input_csv, output_csv):
             sentiment = row['sentiment']
             
             prompt_string, answer = generate_prompt(product_name, review_text, sentiment)
-            data.append({'text': prompt_string, 'answer': answer})
-    
-    with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['text', 'answer']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        
-        for item in data:
-            writer.writerow(item)
+            data.append({'prompt': prompt_string, 'completion': answer})
 
-process_csv(input_csv_path, output_csv_path)
+            if(do_augmentation):
+                #Data augmentation
+                augmented_reviews = augment.apply_augmentations(review_text)
+                for augmented_review in augmented_reviews:
+                    prompt_string, answer = generate_prompt(product_name, augmented_review, sentiment)
+                    data.append({'prompt': prompt_string, 'completion': answer})
+
+    with jsonlines.open(output_jsonl, 'w') as writer:
+        # Shuffle the dataset if desired
+        random.seed()
+        random.shuffle(data)
+        for item in data:
+            writer.write(item)
+
+
+process_csv(input_csv_path, output_jsonl_path, do_augmentation=do_augmentation)
