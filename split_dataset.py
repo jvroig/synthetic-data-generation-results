@@ -4,7 +4,7 @@ import os
 
 
 # Replace 'input_csv_path' and output file paths with desired paths
-input_csv_path = 'expid_2024-02-25/processed_output.csv'
+input_csv_path = 'external/v4_human_labelled.csv'
 output_train_path = 'processed_train.csv'
 output_eval_path = 'processed_eval.csv'
 output_test_path = 'processed_test.csv'
@@ -15,7 +15,7 @@ eval_ratio       = 0.05
 test_ratio       = 0.05
 
 #Specifying fixed sizes for a set will override the ratio for it
-fixed_train_size = 0 #Useful if you want a specific number for your dataset
+fixed_train_size = 50 #Useful if you want a specific number for your dataset
 #fixed_eval_size  = 0 #Might be a future feature
 #fixed_test_size  = 0 #Might be a future feature
 
