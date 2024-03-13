@@ -23,9 +23,9 @@ def filter_and_write_csv(input_csv, output_csv, filter_field, columns):
 
 # Example usage:
 input_csv_path = '../external/v4_labels_processed.csv'
-output_csv_path = '../external/v4_test_set1.csv'
-filter_field = 'Test Set 1 Labels'
-columns = ['ID', 'Prompt_Text', 'Test Set 1 Labels']
+output_csv_path = '../external/v4_test_set5.csv'
+filter_field = 'Hunam Label'
+columns = ['ID', 'Prompt_Text', 'Hunam Label']
 
 filter_and_write_csv(input_csv_path, output_csv_path, filter_field, columns)
 
