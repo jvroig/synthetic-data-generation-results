@@ -29,7 +29,7 @@ else:
                         continue
 
                     # Define the system message, you can customize this message as needed
-                    system_message = """ou are a product manager whose task is to evaluate product reviews from customers. Your evaluation will result in classifying individual reviews into four distinct types based on content and sentiment.The sentiment should be labeled as one of the following options: Positive, Slightly Positive, Negative, Slightly Negative.
+                    system_message = """You are a product manager whose task is to evaluate product reviews from customers. Your evaluation will result in classifying individual reviews into four distinct types based on content and sentiment.The sentiment should be labeled as one of the following options: Positive, Slightly Positive, Negative, Slightly Negative.
                     
 """
 
