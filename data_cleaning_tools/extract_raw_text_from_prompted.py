@@ -27,7 +27,7 @@ def process_jsonl_to_csv(input_jsonl, output_csv):
         writer.writerows(rows)
 
 # Replace 'input_jsonl_path' and 'output_csv_path' with actual file paths
-input_jsonl_path = 'HumanJudge_test.jsonl'
-output_csv_path = 'HumanJudge_test.csv'
+input_jsonl_path = 'HumanJudge_train.jsonl'
+output_csv_path = 'HumanJudge_train.csv'
 
 process_jsonl_to_csv(input_jsonl_path, output_csv_path)

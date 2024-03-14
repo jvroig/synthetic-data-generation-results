@@ -24,7 +24,7 @@ import data_augmentation_tools as augment
 
 split = "train"
 do_augmentation = True
-input_csv_path = 'processed_' + split + '.csv'
+input_csv_path = 'HumanJudge_' + split + '.csv'
 output_jsonl_path = 'dataset_' + split + '.jsonl'
 
 # Lookup table for converting original sentiment to final sentiment

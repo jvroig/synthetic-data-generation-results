@@ -1,13 +1,16 @@
 import random
 import string
-import contractions
+# import contractions
 # from nltk.corpus import wordnet
 # from googletrans import Translator
 
-global_default_rate=0.02
+global_default_rate=0.01
+global_min_chars=2
 
 def random_char_insertion(input_string, insertion_rate=global_default_rate):
     num_chars_to_insert = int(len(input_string) * insertion_rate)
+    if num_chars_to_insert < global_min_chars: num_chars_to_insert = global_min_chars
+
     chars_list = list(input_string)
     for _ in range(num_chars_to_insert):
         random_index = random.randint(0, len(chars_list))
@@ -17,6 +20,7 @@ def random_char_insertion(input_string, insertion_rate=global_default_rate):
 
 def random_char_removal(input_string, removal_rate=global_default_rate):
     num_chars_to_remove = int(len(input_string) * removal_rate)
+    if num_chars_to_remove < global_min_chars: num_chars_to_remove = global_min_chars
     chars_list = list(input_string)
     for _ in range(num_chars_to_remove):
         if chars_list:
@@ -26,6 +30,8 @@ def random_char_removal(input_string, removal_rate=global_default_rate):
 
 def random_char_replacement(input_string, replacement_rate=global_default_rate):
     num_chars_to_replace = int(len(input_string) * replacement_rate)
+    if num_chars_to_replace < global_min_chars: num_chars_to_replace = global_min_chars
+    
     chars_list = list(input_string)
     for _ in range(num_chars_to_replace):
         random_index = random.randint(0, len(chars_list) - 1)
@@ -39,7 +45,15 @@ def random_adjacent_swap(input_string, swap_rate=global_default_rate):
         if random.random() < swap_rate:
             chars_list[i], chars_list[i + 1] = chars_list[i + 1], chars_list[i]
     return ''.join(chars_list)
-    
+
+def random_case_conversion(input_string, conversion_rate=global_default_rate):
+    chars_list = list(input_string)
+    conversion_rate = conversion_rate * 10 #higher conversion rate because of chance that the char being manipulated is already in the case that will randomly be chosen
+    for i in range(len(chars_list)):
+        if random.random() < conversion_rate:
+            chars_list[i] = chars_list[i].upper() if random.random() < 0.5 else chars_list[i].lower()
+    return ''.join(chars_list)
+
 def random_word_deletion(input_string, deletion_rate=global_default_rate):
     words = input_string.split()
     num_words_to_delete = int(len(words) * deletion_rate)
@@ -104,15 +118,17 @@ def synonym_replacement(input_string, replacement_rate=global_default_rate):
 def expand_contractions(input_string):
     return contractions.fix(input_string)
 
+
 def noise_injection(input_string, noise_rate=global_default_rate):
     num_noise_chars = int(len(input_string) * noise_rate)
+    if num_noise_chars < global_min_chars: num_noise_chars = global_min_chars
+
     noise_chars = string.punctuation + string.digits  # Special characters and digits
     noisy_string = list(input_string)
     for _ in range(num_noise_chars):
         random_index = random.randint(0, len(noisy_string) - 1)
         noisy_string[random_index] = random.choice(noise_chars)
     return ''.join(noisy_string)
-    
     
 def back_translation_augmentation(input_string, target_lang='fr'):
     translator = Translator()
@@ -161,11 +177,7 @@ def keyboard_typos_simulation(input_string, typo_rate=global_default_rate):
                 typo_string[i] = random.choice(typo_chars)
     return ''.join(typo_string)
     
-def text_duplication(input_string, duplication_rate=0.1):
-    start_pos = random.randint(0, len(input_string) - 1)
-    end_pos = random.randint(start_pos + 1, len(input_string))
-    duplicated_segment = input_string[start_pos:end_pos]
-    return input_string[:end_pos] + duplicated_segment + input_string[end_pos:]
+
 
 
 
@@ -175,21 +187,26 @@ augmentation_functions = [
     random_char_removal,
     random_char_replacement,
     random_adjacent_swap,
-    random_word_deletion,
-    random_word_insertion,
-    random_word_replacement,
-    random_sentence_deletion,
-    random_word_shuffle,
-    # synonym_replacement,
-    expand_contractions,
+    random_case_conversion,
     noise_injection,
-    # back_translation_augmentation,
     keyboard_typos_simulation,
-    text_duplication,
+    # random_word_deletion,
+    # random_word_insertion,
+    # random_word_replacement,
+    # random_sentence_deletion,
+    # random_word_shuffle,
+    # synonym_replacement,
+    # expand_contractions,
+    # back_translation_augmentation,
 ]
 
 def apply_augmentations(input_string, augmentation_functions=augmentation_functions):
     augmented_strings = []
     for func in augmentation_functions:
-        augmented_strings.append(func(input_string))
+        augmented_string = func(input_string)
+        print("Trying to apply func " + str(func) + "...")
+        while augmented_string == input_string:  # Repeat until augmented string is different
+            augmented_string = func(input_string)
+        augmented_strings.append(augmented_string)
+
     return augmented_strings
