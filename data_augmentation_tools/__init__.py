@@ -6,6 +6,13 @@ import string
 
 global_default_rate=0.01
 global_min_chars=2
+max_retries=5
+
+def all_uppercase(input_string):
+    return input_string.upper()
+
+def all_lowercase(input_string):
+    return input_string.lower()
 
 def random_char_insertion(input_string, insertion_rate=global_default_rate):
     num_chars_to_insert = int(len(input_string) * insertion_rate)
@@ -53,6 +60,69 @@ def random_case_conversion(input_string, conversion_rate=global_default_rate):
         if random.random() < conversion_rate:
             chars_list[i] = chars_list[i].upper() if random.random() < 0.5 else chars_list[i].lower()
     return ''.join(chars_list)
+
+def noise_injection(input_string, noise_rate=global_default_rate):
+    num_noise_chars = int(len(input_string) * noise_rate)
+    if num_noise_chars < global_min_chars: num_noise_chars = global_min_chars
+
+    noise_chars = string.punctuation + string.digits  # Special characters and digits
+    noisy_string = list(input_string)
+    for _ in range(num_noise_chars):
+        random_index = random.randint(0, len(noisy_string) - 1)
+        noisy_string[random_index] = random.choice(noise_chars)
+    return ''.join(noisy_string)
+   
+def keyboard_typos_simulation(input_string, typo_rate=global_default_rate):
+    adjacent_keys = {
+        'a': 'qwsxz',
+        'b': 'vghn',
+        'c': 'xdfv',
+        'd': 'serfcx',
+        'e': 'wrsdf',
+        'f': 'drtgvc',
+        'g': 'ftyhbv',
+        'h': 'gyujnb',
+        'i': 'uojk',
+        'j': 'huiknm',
+        'k': 'jiolm',
+        'l': 'kop',
+        'm': 'njk',
+        'n': 'bhjm',
+        'o': 'iklp',
+        'p': 'ol',
+        'q': 'wa',
+        'r': 'etfcd',
+        's': 'awedxz',
+        't': 'rygf',
+        'u': 'yihj',
+        'v': 'cfgb',
+        'w': 'qase',
+        'x': 'zsdc',
+        'y': 'tugh',
+        'z': 'asx',
+    }
+    typo_chars = string.ascii_lowercase + string.digits + ' '
+    typo_string = list(input_string)
+    for i in range(len(typo_string)):
+        if random.random() < typo_rate:
+            original_char = typo_string[i].lower()
+            if original_char in adjacent_keys:
+                replacement_char = random.choice(adjacent_keys[original_char])
+                typo_string[i] = replacement_char if typo_string[i].islower() else replacement_char.upper()
+            else:
+                typo_string[i] = random.choice(typo_chars)
+    return ''.join(typo_string)
+
+
+def remove_punctuation(input_string):
+    # Create a translation table to map punctuation characters to None (to remove them)
+    translation_table = str.maketrans('', '', string.punctuation)
+    return input_string.translate(translation_table)
+
+
+#################################    
+# Unused and still to be debugged
+#################################
 
 def random_word_deletion(input_string, deletion_rate=global_default_rate):
     words = input_string.split()
@@ -119,70 +189,19 @@ def expand_contractions(input_string):
     return contractions.fix(input_string)
 
 
-def noise_injection(input_string, noise_rate=global_default_rate):
-    num_noise_chars = int(len(input_string) * noise_rate)
-    if num_noise_chars < global_min_chars: num_noise_chars = global_min_chars
-
-    noise_chars = string.punctuation + string.digits  # Special characters and digits
-    noisy_string = list(input_string)
-    for _ in range(num_noise_chars):
-        random_index = random.randint(0, len(noisy_string) - 1)
-        noisy_string[random_index] = random.choice(noise_chars)
-    return ''.join(noisy_string)
-    
 def back_translation_augmentation(input_string, target_lang='fr'):
     translator = Translator()
     translated = translator.translate(input_string, dest=target_lang).text
     back_translated = translator.translate(translated, dest='en').text
     return back_translated
-    
-def keyboard_typos_simulation(input_string, typo_rate=global_default_rate):
-    adjacent_keys = {
-        'a': 'qwsxz',
-        'b': 'vghn',
-        'c': 'xdfv',
-        'd': 'serfcx',
-        'e': 'wrsdf',
-        'f': 'drtgvc',
-        'g': 'ftyhbv',
-        'h': 'gyujnb',
-        'i': 'uojk',
-        'j': 'huiknm',
-        'k': 'jiolm',
-        'l': 'kop',
-        'm': 'njk',
-        'n': 'bhjm',
-        'o': 'iklp',
-        'p': 'ol',
-        'q': 'wa',
-        'r': 'etfcd',
-        's': 'awedxz',
-        't': 'rygf',
-        'u': 'yihj',
-        'v': 'cfgb',
-        'w': 'qase',
-        'x': 'zsdc',
-        'y': 'tugh',
-        'z': 'asx',
-    }
-    typo_chars = string.ascii_lowercase + string.digits + ' '
-    typo_string = list(input_string)
-    for i in range(len(typo_string)):
-        if random.random() < typo_rate:
-            original_char = typo_string[i].lower()
-            if original_char in adjacent_keys:
-                replacement_char = random.choice(adjacent_keys[original_char])
-                typo_string[i] = replacement_char if typo_string[i].islower() else replacement_char.upper()
-            else:
-                typo_string[i] = random.choice(typo_chars)
-    return ''.join(typo_string)
-    
 
-
-
-
+##############
+#END of UNUSED
+##############
 
 augmentation_functions = [
+    all_uppercase,
+    all_lowercase,
     random_char_insertion,
     random_char_removal,
     random_char_replacement,
@@ -190,6 +209,7 @@ augmentation_functions = [
     random_case_conversion,
     noise_injection,
     keyboard_typos_simulation,
+    remove_punctuation,
     # random_word_deletion,
     # random_word_insertion,
     # random_word_replacement,
@@ -204,9 +224,11 @@ def apply_augmentations(input_string, augmentation_functions=augmentation_functi
     augmented_strings = []
     for func in augmentation_functions:
         augmented_string = func(input_string)
-        print("Trying to apply func " + str(func) + "...")
-        while augmented_string == input_string:  # Repeat until augmented string is different
+        # print("Trying to apply func " + str(func) + "...") #Only for debugging infinite loops, which shouldn't happen anymore
+        retry_count = 0
+        while augmented_string == input_string and retry_count < max_retries:  # Repeat until augmented string is different or max_retries is reached
             augmented_string = func(input_string)
+            retry_count = retry_count + 1
         augmented_strings.append(augmented_string)
 
     return augmented_strings
