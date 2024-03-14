@@ -1,8 +1,8 @@
 import random
 import string
 import contractions
-from nltk.corpus import wordnet
-from googletrans import Translator
+# from nltk.corpus import wordnet
+# from googletrans import Translator
 
 global_default_rate=0.02
 
