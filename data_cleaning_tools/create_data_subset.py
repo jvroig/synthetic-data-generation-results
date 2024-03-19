@@ -9,7 +9,7 @@ def filter_and_write_csv(input_csv, output_csv, filter_field, columns):
         reader = csv.DictReader(csvfile)
         for row in reader:
             filter_value = row[filter_field]
-            if filter_value and filter_value != 'REMOVE':
+            if filter_value and filter_value != 'REMOVE' and filter_value != "0":
                 filtered_row = {column: row[column] for column in columns}
                 filtered_row[filter_field] = filter_value
                 filtered_rows.append(filtered_row)
@@ -22,10 +22,10 @@ def filter_and_write_csv(input_csv, output_csv, filter_field, columns):
         writer.writerows(filtered_rows)
 
 # Example usage:
-input_csv_path = '../external/v4_labels_processed.csv'
-output_csv_path = '../external/v4_test_set4.csv'
-filter_field = 'Test Set 4 Labels'
-columns = ['ID', 'Prompt_Text', 'Test Set 4 Labels']
+input_csv_path = 'external/SentiV3_var1541_train_scored.csv'
+output_csv_path = 'external/v3B_test_set2.csv'
+filter_field = 'Set 2 Labels'
+columns = ['prompt','Set 2 Labels']
 
 filter_and_write_csv(input_csv_path, output_csv_path, filter_field, columns)
 
