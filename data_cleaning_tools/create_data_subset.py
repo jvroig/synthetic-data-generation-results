@@ -24,8 +24,8 @@ def filter_and_write_csv(input_csv, output_csv, filter_field, columns):
 # Example usage:
 input_csv_path = 'external/SentiV3_var1541_train_scored.csv'
 output_csv_path = 'external/v3B_test_set2.csv'
-filter_field = 'Set 2 Labels'
-columns = ['prompt','Set 2 Labels']
+filter_field = 'tags'
+columns = ['product_name', 'review_text', 'tags']
 
 filter_and_write_csv(input_csv_path, output_csv_path, filter_field, columns)
 

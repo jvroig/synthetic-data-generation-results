@@ -16,7 +16,7 @@ def convert_csv_to_jsonl(input_csv, output_jsonl):
             writer.write(item)
 
 
-split = "eval"
+split = "test"
 input_csv_path = 'processed_' + split + '.csv'
 output_jsonl_path = 'dataset_' + split + '.jsonl'
 
