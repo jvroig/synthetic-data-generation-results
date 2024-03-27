@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 2 sentences long.
+The review must be written from the perspective of a housewife.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Combs Ltd Android Phone",
+  "review": "While the Combs Ltd Android Phone has some appealing features, I've experienced a few significant drawbacks that prevent me from giving it a higher rating. The battery life is disappointingly short, and the camera struggles in low-light conditions. Overall, it's an average device that falls short in critical areas for a housewife like me."
+}

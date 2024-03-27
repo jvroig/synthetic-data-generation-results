@@ -1,0 +1,13 @@
+Prompt:
+<s>[INST] Create a product review for this product: Arnold, Taylor and Wallace Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Arnold, Taylor and Wallace Screwdriver",
+	"review": "I recently had the opportunity to try out the Arnold, Taylor and Wallace Screwdriver, and I must say, my experience has been mixed. The screwdriver is well-made and has a comfortable grip, which I appreciate. However, I found that it didn't perform as well as I had hoped when it came to actually driving screws. The screws would often become stripped or cross-threaded, which was frustrating. While I can't deny the quality of the screwdriver itself, I'm not sure I can recommend it given the issues I encountered while using it."

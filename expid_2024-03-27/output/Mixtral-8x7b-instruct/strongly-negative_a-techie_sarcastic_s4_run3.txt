@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Arnold, Taylor and Wallace Screwdriver.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Arnold, Taylor and Wallace Screwdriver",
+  "review": "Wow, this Arnold, Taylor and Wallace Screwdriver is just what I needed to drive me up the wall! The weight distribution is so poor that I feel like I'm doing a bicep workout instead of turning a screw. And let's not forget about the handle, which seems to be designed specifically to slip out of my hand at the most inconvenient moments. I mean, who needs a functional screwdriver when you can have a mini-gym session instead? Oh, and did I mention that the blade is made of the finest 19th-century iron? Because who doesn't want a little bit of history in their DIY projects? All in all, I'd highly recommend this screwdriver to anyone who wants to add an extra layer of frustration to their day."
+}

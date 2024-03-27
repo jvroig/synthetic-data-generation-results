@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 2 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Frye PLC Sofa",
+  "review": "The Frye PLC Sofa falls short of my expectations in terms of comfort and durability. While the design may appeal to some, I find it lacking in support and suspect it may not withstand the test of time."
+}

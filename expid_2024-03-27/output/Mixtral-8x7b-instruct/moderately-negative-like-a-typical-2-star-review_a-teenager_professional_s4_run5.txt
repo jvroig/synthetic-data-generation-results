@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Hahn Inc Smart TV.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Hahn Inc Smart TV",
+  "review": "The Hahn Inc Smart TV initially presented promising features, but it fell short of my expectations. The interface is somewhat clunky, making it difficult to navigate and locate desired content. Additionally, the sound quality is subpar, often requiring the use of external speakers. Although the TV's display is vivid, the inconsistent brightness can be frustrating. While not a terrible purchase, it is not the exceptional smart TV experience I had hoped for."
+}

@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Hahn Inc Smart TV.              
+The review sentiment must be mixed but leans positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Hahn Inc Smart TV",
+	"review": "I have been using the Hahn Inc Smart TV for a few months now, and I must say I am quite impressed. The picture quality is outstanding, and the smart features are very user-friendly. The only downside I have noticed is that the remote control can be a bit difficult to handle for those with smaller hands. Overall, I would highly recommend this TV to any senior looking for a high-quality viewing experience."
+}

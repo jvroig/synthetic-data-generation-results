@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Flores, Mckinney and Phelps Microwave.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Flores, Mckinney and Phelps Microwave",
+  "review": "Wow, what a joy it is to use the Flores, Mckinney and Phelps Microwave at work! The buttons are so unintuitive, it's like a puzzle every time I want to heat up my lunch. And let's not forget about the inconsistent cooking times - it's a surprise every time I open the door. But hey, at least it adds a little excitement to my mundane office life. I guess you could say it's the gift that keeps on giving (unexpected results, that is)."
+}

@@ -1,0 +1,13 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be slightly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Combs Ltd Android Phone",
+	"review": "I have been using the Combs Ltd Android Phone for several weeks now, and I must say, I am quite pleased. The user interface is intuitive and easy to navigate, even for a technophobe like myself. The camera quality is exceptional, allowing me to capture clear and vibrant images of my grandchildren. Additionally, the battery life is impressive, lasting me an entire day without needing to recharge. Overall, I am delighted with this phone and would recommend it to any senior looking for a reliable and user-friendly device."

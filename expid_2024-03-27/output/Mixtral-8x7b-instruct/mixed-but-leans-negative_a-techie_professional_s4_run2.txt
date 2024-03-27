@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Frye PLC Sofa",
+  "review": "The Frye PLC Sofa initially caught my attention with its sleek design and promise of durability. However, upon closer inspection, I found the assembly process to be quite complex, with unclear instructions that required multiple viewings of the online tutorial. Additionally, the cushions, while visually appealing, lack the desired firmness and sink too much, leading to discomfort during extended use. Although the sofa has a modern aesthetic, the functional issues make it difficult to fully recommend."
+}

@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Frye PLC Sofa",
+  "review": "Ugh, I got the Frye PLC Sofa and it's a total disaster! The quality is super cheap, the cushions are already losing their shape and it's not even been a month. And to make things worse, the color is nothing like the pictures online - major disappointment! Save your money, this sofa is a total flop."
+}

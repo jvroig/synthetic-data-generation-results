@@ -1,0 +1,13 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a housewife.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"Product Name": "Frye PLC Sofa",
+	"Review": "I am thoroughly disappointed with the Frye PLC Sofa. The build quality is subpar, with cushions that lose their shape quickly and a frame that creaks under normal use. Additionally, the fabric is not as stain-resistant as advertised, and I find myself constantly having to clean it. The sofa's design, while initially appealing, is not practical for daily use, with arms that are too low and a seat that is too deep. Overall, I cannot recommend this product to other housewives looking for a comfortable and durable sofa."

@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Hahn Inc Smart TV.              
+The review sentiment must be mixed but leans negative.
+The review must be 1 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Hahn Inc Smart TV",
+  "review": "Oh, the Hahn Inc Smart TV, where do I begin? It's got all these 'smart' features that I'm supposed to love, but honestly, I'd rather just watch my soap operas without having to navigate through a million menus. And don't even get me started on the remote - it's like they've hidden all the buttons on purpose! But hey, at least I can use it as an expensive paperweight when it's not in use."
+}

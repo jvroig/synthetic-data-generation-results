@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Combs Ltd Android Phone",
+  "review": "Wow, where do I even begin with this masterpiece from Combs Ltd? The phone's design is truly one-of-a-kind, with a screen that's perfect for texting in the dark thanks to its state-of-the-art fingerprint smudge technology. And let's not forget the revolutionary battery life, which lasts just long enough for you to realize you forgot to charge it again. Oh, and the camera? It captures stunning photos that look like they were taken with a potato. All in all, I'd say this phone is a must-have for anyone who wants to experience the joy of technology from 2005. Bravo, Combs Ltd!"
+}

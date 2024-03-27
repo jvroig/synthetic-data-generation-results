@@ -1,0 +1,13 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"Product Name": "Combs Ltd Android Phone",
+	"Review": "Upon using the Combs Ltd Android Phone, I encountered numerous disappointing issues that negatively impacted my user experience. The device's slow performance and subpar camera quality fell short of my expectations. Additionally, the phone's battery life was significantly lower than advertised, causing constant interruptions throughout my day. I regretfully cannot recommend this product for other teenagers seeking a reliable and high-performing smartphone."

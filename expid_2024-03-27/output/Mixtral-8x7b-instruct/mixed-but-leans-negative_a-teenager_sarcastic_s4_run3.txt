@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Arnold, Taylor and Wallace Screwdriver.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Arnold, Taylor and Wallace Screwdriver",
+  "review": "Wow, this screwdriver is just what every teenage kid dreams of! Who needs a phone or video games when you can spend your time turning screws? The three different sizes are super convenient, although I can't help but wonder why they didn't include a fourth size for those extra tiny screws. And the sturdy handle? It's perfect for building up those hand muscles. But seriously, if you're looking for a gift for a teenager, I'd suggest looking elsewhere. Unless, of course, you want to be known as the 'coolest adult' who gave the 'gift of the year' - a screwdriver set. Good luck with that!"
+}

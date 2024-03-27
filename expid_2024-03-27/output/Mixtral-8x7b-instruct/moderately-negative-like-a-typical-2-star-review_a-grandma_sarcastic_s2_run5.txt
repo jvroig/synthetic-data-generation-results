@@ -1,0 +1,13 @@
+Prompt:
+<s>[INST] Create a product review for this product: Hahn Inc Smart TV.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 2 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Hahn Inc Smart TV",
+	"review": "Oh, what a delightful piece of technology this Hahn Smart TV is! It's so user-friendly that even I, a grandmother, can't figure out how to change the channel without calling for help. I'm just grateful my grandkids are around to constantly adjust the settings for me. Two stars because at least it can still display beautiful pictures, when it's not acting up."

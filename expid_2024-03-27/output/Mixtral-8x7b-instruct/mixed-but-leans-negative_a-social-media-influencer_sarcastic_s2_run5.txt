@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Hahn Inc Smart TV.              
+The review sentiment must be mixed but leans negative.
+The review must be 2 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+"product_name": "Hahn Inc Smart TV",
+"review": "Wow, this Hahn Inc Smart TV is just what I needed to bring my home entertainment to the next level. Or not. The constant buffering and poor picture quality is really taking me back to the stone age of TV watching. #sponsored #notactuallysponsored"
+}

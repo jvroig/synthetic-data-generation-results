@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Frye PLC Sofa",
+  "review": "I am absolutely thrilled to share my thoughts on the Frye PLC Sofa! This piece is a true masterpiece - its sleek design and top-notch craftsmanship are simply unmatched. Not only is it incredibly comfortable, but it also adds a touch of sophistication and elegance to any space. If you're in the market for a high-quality sofa that will stand the test of time, I highly recommend the Frye PLC Sofa. You won't be disappointed!"
+}

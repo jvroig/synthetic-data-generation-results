@@ -1,0 +1,13 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be slightly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Combs Ltd Android Phone",
+	"review": "As a techie, I found the Combs Ltd Android Phone to be a somewhat disappointing device. The device's performance was subpar, with noticeable lag even during basic tasks. Additionally, the battery life was lackluster, requiring frequent charging throughout the day. While the phone's design was sleek and modern, these issues ultimately detracted from the overall user experience. I would recommend potential buyers to explore other options in the market before settling for this device."

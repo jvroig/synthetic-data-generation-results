@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Arnold, Taylor and Wallace Screwdriver.              
+The review sentiment must be mixed but leans positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a housewife.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Arnold, Taylor and Wallace Screwdriver",
+  "review": "I got this screwdriver set from Arnold, Taylor and Wallace and it's been a real game-changer around the house! I love how sturdy and well-made the tools are, and they've made assembling furniture and fixing little things around the house so much easier. The only downside is that there are so many different sizes, it can be a little overwhelming trying to find the right one sometimes. But overall, I'm really happy with this screwdriver set and would definitely recommend it to other housewives!"
+}

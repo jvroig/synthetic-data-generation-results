@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be mixed but leans positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Frye PLC Sofa",
+  "review": "I gotta say, the Frye PLC Sofa is a pretty solid piece of furniture, especially for a techie like me. The sleek design and durable materials are a major plus, and it's got just enough tech-friendly features to keep me happy. The built-in USB charger is super convenient, and the wireless charging pad is a game-changer. However, the assembly process was a bit of a pain, and the instructions could have been clearer. But overall, I'm really digging this sofa. It's comfortable, stylish, and perfect for a tech-savvy home."
+}

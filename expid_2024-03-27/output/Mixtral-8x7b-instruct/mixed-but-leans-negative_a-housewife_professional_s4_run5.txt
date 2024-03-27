@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Hahn Inc Smart TV.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a housewife.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Hahn Inc Smart TV",
+  "review": "As a housewife, I had high expectations for the Hahn Inc Smart TV. While it does offer a wide range of smart features and a sleek design, I encountered several issues that have left me disappointed. The user interface can be unintuitive at times, making it difficult to navigate and fully utilize the TV's capabilities. Additionally, I have experienced connectivity problems with my home network, which is frustrating when trying to stream content. Although the picture quality is generally good, the overall experience is marred by these technical issues, making it challenging to recommend this product without reservation."
+}

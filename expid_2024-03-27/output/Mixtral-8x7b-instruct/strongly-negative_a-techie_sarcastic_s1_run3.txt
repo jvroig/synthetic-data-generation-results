@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Arnold, Taylor and Wallace Screwdriver.              
+The review sentiment must be strongly negative.
+The review must be 1 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"Arnold, Taylor and Wallace Screwdriver - a true masterpiece of technology, featuring the groundbreaking ability to only turn screws in one direction, making even the simplest tasks a frustrating and time-consuming endeavor. As a techie, I can't recommend it enough for anyone looking to add an extra layer of challenge to their daily routine."

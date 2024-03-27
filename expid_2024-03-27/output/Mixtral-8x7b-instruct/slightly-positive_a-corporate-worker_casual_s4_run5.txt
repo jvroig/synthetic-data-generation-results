@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Hahn Inc Smart TV.              
+The review sentiment must be slightly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Hahn Inc Smart TV",
+  "review": "Just got the Hahn Inc Smart TV for the office and I'm loving it! The picture quality is top-notch, making our virtual meetings so much clearer. Plus, the smart features are super convenient for quick presentations. It's a bit pricey, but totally worth it for the upgrade. Thumbs up from this corporate worker!"
+}

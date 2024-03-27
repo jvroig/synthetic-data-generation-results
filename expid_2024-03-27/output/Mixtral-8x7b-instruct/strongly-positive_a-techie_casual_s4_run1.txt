@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product\_name": "Combs Ltd Android Phone",
+	"review": "Wow, this Combs Ltd Android Phone is seriously impressive! The specs are top-notch, with a super-fast processor and a high-resolution display that's perfect for gaming or streaming. I also love the sleek design and the customizable features that come with the Android operating system. Overall, this phone is a game-changer for techies who want a powerful and versatile device. Highly recommend!"
+}

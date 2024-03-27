@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Frye PLC Sofa",
+  "review": "Oh dear, this Frye PLC Sofa is a disappointment! The cushions are as hard as a rock, not cozy at all for my old bones. And the color, it's nothing like the picture online - more of a dull grey than the soft beige I was expecting. Plus, it's so low to the ground, I feel like I'm sinking into it when I sit down. Save your pennies, grandkids, this sofa ain't worth it!"
+}

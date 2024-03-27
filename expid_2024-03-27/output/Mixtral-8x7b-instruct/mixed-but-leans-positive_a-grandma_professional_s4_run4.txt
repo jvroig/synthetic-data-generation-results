@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Flores, Mckinney and Phelps Microwave.              
+The review sentiment must be mixed but leans positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product\_name": "Flores, Mckinney and Phelps Microwave",
+  "review": "I have been using the Flores, Mckinney and Phelps Microwave for a few months now, and I must say I am quite pleased with its performance. The microwave heats up my food quickly and evenly, which is a must for a grandmother like me. However, I do find the buttons a bit small and hard to read, which can be frustrating at times. Overall, I would recommend this product to others seeking a reliable and efficient microwave."
+}

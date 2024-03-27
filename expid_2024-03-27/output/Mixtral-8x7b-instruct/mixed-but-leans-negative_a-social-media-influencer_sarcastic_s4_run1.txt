@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"Combs Ltd Android Phone" : 	"Oh, the Combs Ltd Android Phone, where do I begin? It's got all the charm of a brick, and the processing power of a potato. The camera? Let's just say it's perfect for those vintage, blurry shots. And the battery life? It's so short, you'll be reminiscing about the good old days of landlines. But hey, at least it's got a sleek design - if by 'sleek' you mean 'slippery enough to slide off any surface'. All in all, a true masterpiece of modern technology. #TechDisaster"

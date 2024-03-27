@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Arnold, Taylor and Wallace Screwdriver.              
+The review sentiment must be slightly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Arnold, Taylor and Wallace Screwdriver",
+  "review": "I got this screwdriver set for my grandson's birthday, but I gotta say, it's a bit too advanced for me. I'm an old-fashioned gal who prefers a simple screwdriver, not this fancy 10-piece set. The quality seems good, but I don't think I'll ever use more than one type of screwdriver in my life! Maybe it's just not the right tool for me."
+}

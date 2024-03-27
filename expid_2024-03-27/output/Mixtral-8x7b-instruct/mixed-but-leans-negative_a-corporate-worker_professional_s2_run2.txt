@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 2 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"The Frye PLC Sofa initially presented a professional appearance, suitable for a corporate setting. However, after a short period of use, the sofa's cushions began to lose their shape, and the material seemed to attract dirt easily, detracting from its overall appeal and longevity."

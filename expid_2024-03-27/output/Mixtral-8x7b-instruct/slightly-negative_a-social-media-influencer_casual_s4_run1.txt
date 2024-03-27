@@ -1,0 +1,13 @@
+Prompt:
+<s>[INST] Create a product review for this product: Combs Ltd Android Phone.              
+The review sentiment must be slightly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Combs Ltd Android Phone",
+	"review": "Eh, just got my hands on the Combs Ltd Android Phone. The design's alright, but the camera quality's just meh. Battery life's not great either, drains fast after a few hours of social media scrolling. Not sure if I'd recommend this one, guys. #CombsLtdPhone #Review"

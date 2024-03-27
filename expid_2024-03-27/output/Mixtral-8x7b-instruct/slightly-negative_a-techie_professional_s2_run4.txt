@@ -1,0 +1,17 @@
+Prompt:
+<s>[INST] Create a product review for this product: Flores, Mckinney and Phelps Microwave.              
+The review sentiment must be slightly negative.
+The review must be 2 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Flores, Mckinney and Phelps Microwave",
+	"review": "While the Flores, Mckinney and Phelps Microwave functions adequately, it lacks certain advanced features that are commonly found in other microwaves in its price range. Its user interface is also somewhat outdated and less intuitive compared to more modern alternatives."
+```python
+
+```
+As a professional techie, I found the Flores, Mckinney and Phelps Microwave to be a functional yet underwhelming appliance. While it performs its basic functions acceptably, it falls short in terms of advanced features and user-friendliness compared to other microwaves in its price range. Its outdated interface and lack of modern conveniences make it a less desirable choice for those who prioritize technology and innovation in their kitchen appliances.

@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Arnold, Taylor and Wallace Screwdriver.              
+The review sentiment must be slightly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Arnold, Taylor and Wallace Screwdriver",
+  "review": "Eh, this screwdriver from Arnold, Taylor and Wallace isn't too bad, but it's not the best one I've used as a techie. The grip could be more comfortable and the screwdriver tips seem to wear down a bit too quickly for my liking. I guess it'll do in a pinch, but I'd rather have something more durable and ergonomic for my tech projects."
+}

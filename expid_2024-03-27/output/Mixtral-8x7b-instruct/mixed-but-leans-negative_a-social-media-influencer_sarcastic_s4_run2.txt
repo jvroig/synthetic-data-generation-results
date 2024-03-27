@@ -1,0 +1,12 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"Frye PLC Sofa" : 	"Oh, the Frye PLC Sofa, where do I begin? It's absolutely 'stunning' with its 'unique' mix of colors that clash more than a toddler's wardrobe. And let's not forget about the 'plush' cushions that feel like you're sitting on a pile of bricks. But hey, if you're into furniture that's as uncomfortable as it is 'eclectic', then this is the perfect piece for you! #FryeFails #SofaDisaster"

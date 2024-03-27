@@ -1,0 +1,14 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be slightly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+	"product_name": "Frye PLC Sofa",
+	"review": "I recently purchased the Frye PLC Sofa, and while the design and craftsmanship are impressive, I have some reservations. As a techie, I found the lack of built-in USB charging ports or Bluetooth speakers disappointing. The sofa's firmness is also stiffer than I prefer, which may not be ideal for long hours of work or gaming. Overall, while it is a visually appealing piece, it falls short of my expectations in terms of functionality and comfort."
+}

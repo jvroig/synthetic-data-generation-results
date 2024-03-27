@@ -1,0 +1,16 @@
+Prompt:
+<s>[INST] Create a product review for this product: Frye PLC Sofa.              
+The review sentiment must be slightly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review: [/INST] 
+Response:
+
+{
+  "product_name": "Frye PLC Sofa",
+  "review": "The Frye PLC Sofa is a well-constructed piece of furniture that is perfect for any modern workspace or home office. The sleek design and durable materials used in its construction make it an excellent choice for those who appreciate both form and function. While not a tech product in the traditional sense, its ability to provide a comfortable seating solution for extended periods of time while working on a computer or other device is noteworthy. Overall, I am pleased with the Frye PLC Sofa and would recommend it to any tech-savvy individual looking for a stylish and functional seating option."
+}
