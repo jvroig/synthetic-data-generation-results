@@ -6,9 +6,10 @@ def convert_csv_to_jsonl(input_csv, output_jsonl):
     with open(input_csv, 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            prompt = row['Prompt']
-            completion = row['Completion']
-            data.append({'prompt': prompt, 'completion': completion})
+            json_row = {}
+            for column, value in row.items():
+                json_row[column.lower()] = value
+            data.append(json_row)
 
     with jsonlines.open(output_jsonl, 'w') as writer:
         for item in data:
