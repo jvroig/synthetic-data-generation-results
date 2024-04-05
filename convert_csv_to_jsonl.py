@@ -13,10 +13,9 @@ def convert_csv_to_jsonl(input_csv, output_jsonl):
 
     with jsonlines.open(output_jsonl, 'w') as writer:
         for item in data:
-            writer.write(item)
+             writer.write(item)
 
-
-split = "test"
+split = "train"
 input_csv_path = 'processed_' + split + '.csv'
 output_jsonl_path = 'dataset_' + split + '.jsonl'
 

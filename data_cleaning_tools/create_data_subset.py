@@ -22,10 +22,10 @@ def filter_and_write_csv(input_csv, output_csv, filter_field, columns):
         writer.writerows(filtered_rows)
 
 # Example usage:
-input_csv_path = 'external/SentiV3_var1541_train_scored.csv'
-output_csv_path = 'external/v3B_test_set2.csv'
-filter_field = 'tags'
-columns = ['product_name', 'review_text', 'tags']
+input_csv_path = 'external/Batch2_AmazonReviews_Tags_LabelsRound2_v2.csv'
+output_csv_path = 'external/ReviewTags_v3_set3.csv'
+filter_field = 'Set 3 – Combined Human Labelled'
+columns = ['product_name', 'review_text', filter_field]
 
 filter_and_write_csv(input_csv_path, output_csv_path, filter_field, columns)
 

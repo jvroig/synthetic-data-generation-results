@@ -4,7 +4,7 @@ import os
 
 
 # Replace 'input_csv_path' and output file paths with desired paths
-input_csv_path = 'external/ReviewTags_v1_set1.csv'
+input_csv_path = 'external/ReviewTags_v3_set3.csv'
 output_train_path = 'processed_train.csv'
 output_eval_path = 'processed_eval.csv'
 output_test_path = 'processed_test.csv'
