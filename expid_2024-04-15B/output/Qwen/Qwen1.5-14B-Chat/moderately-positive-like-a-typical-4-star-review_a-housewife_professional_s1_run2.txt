@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Craig and Tyler Sofa.              
+The review sentiment must be moderately positive like a typical 4-star review.
+The review must be 1 sentences long.
+The review must be written from the perspective of a housewife.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Johnson, Craig and Tyler Sofa",
+  "review": "As a housewife, the Johnson, Craig, and Tyler Sofa is a comfortable and stylish addition to our living room, providing ample seating with a moderate durability that suits our family's daily wear and tear. It earns a solid 4 stars for its pleasing design and practicality."
+}

@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Craig and Tyler Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Johnson, Craig and Tyler Sofa",
+  "review": "🌟 Unleashing Comfort and Style on Social! The Johnson, Craig, and Tyler Sofa is a true standout in my home decor game! Its sleek design not only enhances the aesthetics but also provides the utmost comfort for those cozy nights. The impeccable craftsmanship and attention to detail are evident in every stitch. Kudos to the team for creating a masterpiece that effortlessly blends elegance with functionality. Highly recommend this sofa for anyone looking to elevate their living space! #LuxuryLiving #SofaGoals"
+}

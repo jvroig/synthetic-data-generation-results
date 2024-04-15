@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Harrison-Smith Screwdriver.              
+The review sentiment must be strongly positive.
+The review must be 1 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Harrison-Smith Screwdriver",
+"review": "This Harrison-Smith screwdriver is seriously the best tool ever! It's so easy to handle and makes DIY projects a breeze. I totally recommend it to all my fellow teenage crafters!"
+}

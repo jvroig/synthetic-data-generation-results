@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Woods and Mullins Android Phone.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Johnson, Woods and Mullins Android Phone",
+"review": "I just love my new Johnson, Woods and Mullins Android phone! The battery life is so short, I get to enjoy the 'joy' of charging it every few hours. And the best part? The phone randomly reboots, so I get to 'experience' the thrill of losing unsaved work. Oh, and let's not forget the bloatware that came pre-installed, it's like having a personal assistant that slows down your phone. I think I've found my new favorite corporate toy."
+}

@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "The Hooper, Young and Zimmerman Sofa initially seemed like a comfortable and stylish choice for our office lounge area. However, after a few weeks of use, the cushions have begun to lose their shape and provide inadequate support. Additionally, the fabric has started to pill, which distracts from the sofa's overall appearance. While the price was reasonable, the quality does not seem to match the cost. We are disappointed with this purchase and cannot recommend it for corporate use."
+}

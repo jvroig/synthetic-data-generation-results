@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Harrison-Smith Screwdriver.              
+The review sentiment must be moderately positive like a typical 4-star review.
+The review must be 1 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Harrison-Smith Screwdriver",
+"review": "This Harrison-Smith screwdriver is a reliable tool for any techie's kit. Its durable build and comfortable grip make it a great choice for frequent use."
+}

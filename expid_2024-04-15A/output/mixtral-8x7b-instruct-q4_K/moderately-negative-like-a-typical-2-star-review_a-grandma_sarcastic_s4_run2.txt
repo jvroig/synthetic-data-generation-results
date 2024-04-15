@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Well, well, well, what do we have here? The Hooper, Young and Zimmerman Sofa. I must say, it's quite the sight. It's so 'modern' that it's uncomfortable, and the cushions are so firm, I feel like I'm sitting on a pile of bricks. And don't even get me started on the color - it's as dull as dishwater. I guess it's true what they say, 'you get what you pay for'. Thanks, but I think I'll stick with my old reliable armchair."
+}

@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Wow, this Hooper, Young and Zimmerman Sofa is something else. As a techie, I'm always on the lookout for innovative designs and cutting-edge technology. But this sofa? It's got buttons, yes, actual buttons! I mean, who even uses those in 2022? And don't get me started on the lack of USB charging ports or Bluetooth speakers. The only thing this sofa has going for it is its comfort, but who needs that when you can have a built-in gaming console, right? Total disappointment."
+}

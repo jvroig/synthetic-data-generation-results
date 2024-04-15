@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Woods and Mullins Android Phone.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Johnson, Woods and Mullins Android Phone",
+"review": "Wow, where do I even begin with this gem? The Johnson, Woods and Mullins Android Phone is the ultimate party pooper at any social event. With its unreliable battery life and painfully slow performance, it's like holding a brick in your hand. And let's not forget the camera - or should I say, the 'potato cam'? Oh, and did I mention the poor signal reception? This phone is a true 'influencer' magnet, but only if you're trying to repel followers. Thumbs down!"
+}

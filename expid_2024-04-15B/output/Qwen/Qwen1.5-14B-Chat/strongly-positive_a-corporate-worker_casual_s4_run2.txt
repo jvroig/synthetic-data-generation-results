@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Craig and Tyler Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Johnson, Craig and Tyler Sofa",
+  "review": "As a corporate dude, I gotta say, this Johnson, Craig, and Tyler Sofa is a real game-changer in our office space. The design is sleek and modern, adding a touch of sophistication that impresses clients and boosts our team's morale. The comfort level is off the charts – even after long days, we can't help but sink into its plush cushions. And the durability? It's built like a tank, promising to withstand the wear and tear of our busy workplace. All in all, a fantastic investment for our company's aesthetic and functionality."
+}

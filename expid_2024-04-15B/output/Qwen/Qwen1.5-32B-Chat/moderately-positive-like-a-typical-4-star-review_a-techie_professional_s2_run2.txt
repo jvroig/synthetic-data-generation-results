@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Carter and Sons Sofa.              
+The review sentiment must be moderately positive like a typical 4-star review.
+The review must be 2 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Carter and Sons Sofa",
+  "review": "As a techie, I appreciate the clean lines and modern design of the Carter and Sons Sofa. The build quality is solid, and the sofa's comfort level is decent, making it a suitable addition to my tech-inspired living room. However, I wish it had built-in USB ports for charging devices – a feature that would have truly elevated my user experience."
+}

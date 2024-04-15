@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Carter and Sons Sofa.              
+The review sentiment must be moderately positive like a typical 4-star review.
+The review must be 1 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+"product_name": "Carter and Sons Sofa",
+"review": "The Carter and Sons Sofa is chill, comfy, and has that cool vibe my room needed. It's not perfect, but for a teen's hangout spot, it's totally worth it. 4/5"
+}

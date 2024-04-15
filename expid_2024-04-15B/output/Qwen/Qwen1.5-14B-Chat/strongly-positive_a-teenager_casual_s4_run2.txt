@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Craig and Tyler Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Johnson, Craig and Tyler Sofa",
+  "review": "Yo, this Johnson, Craig, and Tyler Sofa is a total game-changer in my hangout spot! It's super comfy, like a cloud for chillin'. The design is sick - cool colors and that mid-century modern vibe really sets it apart. I love how it fits perfectly in my room, and it's durable too, so I don't have to worry about it breaking after all our wild dance parties. Definitely a must-have for any teenager's space!"
+}

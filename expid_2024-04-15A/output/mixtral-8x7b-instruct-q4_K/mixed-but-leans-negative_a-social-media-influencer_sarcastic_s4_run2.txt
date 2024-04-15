@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Wow, this Hooper, Young and Zimmerman sofa is just what I've always dreamed of! The 'distressed' finish, which is really just a fancy way of saying 'poorly made,' adds a certain shabby charm. And the 'vintage' design? Well, that's just a nice way of saying 'outdated.' But hey, if you're into uncomfortable seating and questionable quality, this could be the perfect piece for you! #NotSponsored #ButTheyShouldPayMe"
+}

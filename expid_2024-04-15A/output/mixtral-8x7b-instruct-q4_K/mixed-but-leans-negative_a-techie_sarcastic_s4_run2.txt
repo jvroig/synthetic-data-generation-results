@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "I'm just blown away by this Hooper, Young and Zimmerman Sofa. As a techie, I'm always on the lookout for cutting-edge technology, and this... this is something else. The 'adjustable' cushions are a real innovation - they either deflate when you sit down or become rock-hard. And don't get me started on the 'smart' feature that connects to your Wi-Fi and automatically orders pizza when it detects you've dozed off. Sure, it might not be the most comfortable or practical piece of furniture, but hey, at least it's 'smart'!"
+}

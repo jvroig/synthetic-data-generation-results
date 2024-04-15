@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Woods and Mullins Android Phone.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Johnson, Woods and Mullins Android Phone",
+"review": "The Johnson, Woods and Mullins Android Phone has some noticeable drawbacks that hinder its usability in a corporate setting. The battery life is disappointingly short, lasting only a few hours, which can be problematic for employees who rely on their phones for extended periods. Additionally, the device's speaker quality is subpar, making virtual meetings and conference calls challenging. While the phone has some positive aspects, such as a sleek design and a user-friendly interface, these issues are significant enough to detract from its overall value for corporate use."
+}

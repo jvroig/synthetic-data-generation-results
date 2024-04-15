@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Carter and Sons Sofa.              
+The review sentiment must be strongly positive.
+The review must be 2 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Carter and Sons Sofa",
+  "review": "As a grandma, I must say this Carter and Sons Sofa is a real gem! It's not just comfortable for my achy bones, but the quality is top-notch and the design is charming. My grandkids love snuggling on it, and it's held up beautifully through their playful antics. A perfect addition to our family room!"
+}

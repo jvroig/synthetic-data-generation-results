@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Harrison-Smith Screwdriver.              
+The review sentiment must be slightly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Harrison-Smith Screwdriver",
+"review": "I've been using the Harrison-Smith screwdriver for a few weeks now and I must say, it's pretty solid! The grip is comfortable and the precision is on point. It's not too flashy, but it gets the job done. If you're in need of a reliable screwdriver, this one's worth considering. #handytool #HarrisonSmith"
+}

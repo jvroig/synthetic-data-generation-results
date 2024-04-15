@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "This sofa is pretty cool, it's really comfy to lounge on while watching movies or playing video games. I also like the modern design, it looks really sleek in my room. However, the cushions do sink in a bit too much, which can be a little uncomfortable after a while. Overall, I'd say it's a great addition to my space, but they could definitely improve the cushioning."
+}

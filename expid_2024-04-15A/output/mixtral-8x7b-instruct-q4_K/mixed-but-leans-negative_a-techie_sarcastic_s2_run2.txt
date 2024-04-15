@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 2 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Sure, this sofa is a masterpiece of 19th-century craftsmanship, complete with hand-carved mahogany and luxurious velvet upholstery. But, honestly, as a techie, I'd rather have a smart couch that connects to Wi-Fi and has built-in USB charging ports. Talk about comfort and convenience!"
+}

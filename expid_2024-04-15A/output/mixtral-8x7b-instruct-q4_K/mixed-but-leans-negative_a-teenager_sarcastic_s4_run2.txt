@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Oh boy, this Hooper, Young and Zimmerman Sofa is just what my trendy teenage room needed! The 'retro' design from the 90s is totally 'in' these days, right? And who doesn't love a stiff, uncomfortable seat that makes you feel like you're sitting on a wooden plank? Plus, the color options are limited to shades of beige and brown - perfect for making a bold statement. But hey, at least it's sturdy and will probably last longer than my fleeting teenage interests. Thanks, HYZ, for creating a sofa that truly embodies the spirit of 'mixed reviews'!"
+}

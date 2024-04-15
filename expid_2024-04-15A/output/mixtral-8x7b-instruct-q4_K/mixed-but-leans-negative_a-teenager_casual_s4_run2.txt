@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Hmm, this Hooper, Young and Zimmerman sofa is kinda meh. I mean, it looks alright, I guess, but it's not as comfy as I thought it'd be. The cushions are too firm, and the armrests are too low for my liking. Plus, it's not as easy to clean as they claimed. I'm not impressed."
+}

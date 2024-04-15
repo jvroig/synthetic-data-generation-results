@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Woods and Mullins Android Phone.              
+The review sentiment must be slightly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Johnson, Woods and Mullins Android Phone",
+"review": "I have found some challenges using this Android phone from Johnson, Woods and Mullins. While it has many features, I find it not as user-friendly as I would prefer, particularly the navigation and settings adjustments. The font size is also quite small for my liking, causing some strain on my eyes. I expected a more intuitive experience, given the brand's reputation. I still appreciate the device's functionality, but I believe there is room for improvement in terms of senior-friendliness."
+}

@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Fisher-Jordan Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+  "product_name": "Fisher-Jordan Sofa",
+  "review": "As a corporate worker with long hours at the office, I highly recommend the Fisher-Jordan Sofa for those seeking comfort and style at home. The sleek design and rich color palette align perfectly with my professional aesthetic. The cushions provide ample support, ensuring a comfortable seating experience even after a long day. The quality craftsmanship is evident in every detail, making this sofa a worthwhile investment for both comfort and style."
+}

@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Fisher-Jordan Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+  "product_name": "Fisher-Jordan Sofa",
+  "review": "Oh my gosh, you guys! I recently got the Fisher-Jordan Sofa for my living room and I'm absolutely in love! The design is sleek and modern, but still so cozy and inviting. The fabric is so soft and comfortable, I could spend hours lounging on it. And the best part? It matches perfectly with my existing decor. Seriously, if you're in the market for a new sofa, do yourself a favor and check out the Fisher-Jordan. You won't be disappointed!"
+}

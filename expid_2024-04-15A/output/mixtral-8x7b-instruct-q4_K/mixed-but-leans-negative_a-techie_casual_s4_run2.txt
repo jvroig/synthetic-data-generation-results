@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "I got this HYZ sofa thinking it'd be a great addition to my minimalist home office, but tbh, it's not quite what I expected. The sleek design is on point, and it's super comfy, no doubt. But, as a techie, I can't help but notice the lack of built-in USB chargers or cable management features. Plus, it's a bit of a pain to move around, since it's quite heavy. Feels a bit outdated in that regard. Decent sofa, just not my top pick."
+}

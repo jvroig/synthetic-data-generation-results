@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Woods and Mullins Android Phone.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Johnson, Woods and Mullins Android Phone",
+"review": "This phone is seriously lit! I love the sleek design and the camera is insane for all my social media posts. The battery life lasts forever, so I can stay connected with my friends all day long. Plus, the sound quality is perfect for jamming out to my favorite tunes. I highly recommend this phone for any tech-savvy teen like me!"
+}

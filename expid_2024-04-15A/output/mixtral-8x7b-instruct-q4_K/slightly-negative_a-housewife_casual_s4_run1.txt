@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Woods and Mullins Android Phone.              
+The review sentiment must be slightly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a housewife.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Johnson, Woods and Mullins Android Phone",
+"review": "I got this JWM Android phone as a gift, and while it's not bad, I must say I'm a bit disappointed. The camera doesn't seem to capture the colors quite right, and as a housewife, I love taking pictures of my recipes and DIY projects. The battery life could also be better, as I'm always on my phone, checking social media and group chats with the neighborhood moms. It's not a total loss, but I expected more from a well-known brand like Johnson, Woods and Mullins."
+}

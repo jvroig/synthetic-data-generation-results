@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Carter and Sons Sofa.              
+The review sentiment must be moderately positive like a typical 4-star review.
+The review must be 1 sentences long.
+The review must be written from the perspective of a corporate worker.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+"product_name": "Carter and Sons Sofa",
+"review": "As a busy corporate worker, the Carter and Sons Sofa provides a comfortable spot to unwind after long days, with its sturdy build and stylish design. Not the most luxurious, but definitely a solid 4-star choice for functional yet cozy home office relaxation."
+}

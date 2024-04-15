@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be moderately negative like a typical 2-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Wow, where do I even begin with this Hooper, Young and Zimmerman Sofa? I mean, it's a sofa, it's not going to set the world on fire. The cushions are lumpy, and the fabric feels like it was woven from burlap sacks. And don't get me started on the color options - they're about as exciting as watching paint dry. But hey, if you're looking for a place to sit that's slightly more comfortable than a park bench, this might just be the sofa for you!"
+}

@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be sarcastic.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "Wow, I've always dreamed of having a sofa that's as uncomfortable as this one! The Hooper, Young and Zimmerman Sofa is the perfect addition to any home... if you're going for the 'plank of wood' aesthetic. Seriously, who needs lumbar support when you can have a sofa that's as hard as a rock? And don't even get me started on the cringe-worthy design. It's so ugly, it might just be the next big thing on Instagram... #designfail"
+}

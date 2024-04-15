@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Craig and Tyler Sofa.              
+The review sentiment must be strongly positive.
+The review must be 2 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Johnson, Craig and Tyler Sofa",
+  "review": "Absolutely in love with the Johnson, Craig, and Tyler Sofa! Its sleek design and exceptional comfort have elevated my living room to new heights. A must-have for any stylish influencer looking to make a statement. #LuxuryLiving #SofaGoals"
+}

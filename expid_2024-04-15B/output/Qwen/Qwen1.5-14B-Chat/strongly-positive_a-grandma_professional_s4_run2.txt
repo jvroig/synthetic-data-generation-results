@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Craig and Tyler Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Johnson, Craig and Tyler Sofa",
+  "review": "As a grandma, I must say the Johnson, Craig, and Tyler Sofa has exceeded all my expectations. The craftsmanship is truly exceptional, with its sturdy construction and attention to detail. The upholstery is soft and comfortable, making it a cozy spot for my grandkids to snuggle during movie nights. Not only is the design stylish and timeless, but it also adds a touch of elegance to my living room. I am thoroughly impressed and highly recommend this sofa to any family looking for a piece that combines comfort and sophistication."
+}

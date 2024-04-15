@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Carter and Sons Sofa.              
+The review sentiment must be moderately positive like a typical 4-star review.
+The review must be 2 sentences long.
+The review must be written from the perspective of a social media influencer.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+"product_name": "Carter and Sons Sofa",
+"review": "Just got my hands on the Carter and Sons Sofa and I must say, it's a stylish addition to my living room! The comfort level is decent, not too firm, not too soft - just right for movie nights. Not a 5-star perfect piece, but definitely a solid 4, great value for the price. #家居升级 #沙发控 #CarterAndSons"
+}

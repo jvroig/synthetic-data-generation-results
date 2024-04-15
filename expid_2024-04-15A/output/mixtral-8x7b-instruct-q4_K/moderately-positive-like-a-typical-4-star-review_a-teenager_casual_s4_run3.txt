@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Harrison-Smith Screwdriver.              
+The review sentiment must be moderately positive like a typical 4-star review.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Harrison-Smith Screwdriver",
+"review": "This screwdriver is pretty solid, it's got a good grip and the stainless steel doesn't slip. I've used it for a bunch of projects and it's held up great. The only thing is, it could use a magnetic tip to make things easier. But overall, it's a solid tool, definitely worth the money!"
+}

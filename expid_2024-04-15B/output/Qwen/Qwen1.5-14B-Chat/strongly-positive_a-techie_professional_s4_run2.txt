@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Craig and Tyler Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Johnson, Craig and Tyler Sofa",
+  "review": "As a tech-savvy individual, I must say the Johnson, Craig, and Tyler Sofa has exceeded my expectations. The sleek, modern design not only impresses with its aesthetics but also integrates smart features that cater to my tech-centric lifestyle. The comfortable, memory foam cushions provide a perfect blend of support and relaxation, while the seamless integration with smart home devices adds a touch of convenience. Overall, this sofa is a testament to how style and functionality can coexist, making it a must-have for any tech-enamored home."
+}

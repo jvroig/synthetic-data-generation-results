@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be strongly negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be casual.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "This Hooper, Young and Zimmerman sofa is a total bust for me, as a techie. First, it doesn't come with built-in wireless charging, which is a must-have these days. Second, the cushions aren't made of some space-age material that stays cool to the touch. Third, where's the voice control integration to adjust the recline? Lastly, it doesn't even have LED lighting underneath to set the mood. Complete disappointment!"
+}

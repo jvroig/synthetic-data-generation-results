@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Fisher-Jordan Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a teenager.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+  "product_name": "Fisher-Jordan Sofa",
+  "review": "The Fisher-Jordan Sofa is an exceptional piece of furniture for any teen's space. Its sleek design and modern look make it a perfect addition to my room. The comfort level is unmatched, providing the ideal place to relax and unwind after a long day. The quality of the materials used is evident in its durability and stylish appearance. I highly recommend this sofa to any teenager seeking a functional and fashionable furniture upgrade."
+}

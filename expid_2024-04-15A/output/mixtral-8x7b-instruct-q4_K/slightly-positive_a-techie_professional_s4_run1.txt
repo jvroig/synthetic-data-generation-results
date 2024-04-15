@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Johnson, Woods and Mullins Android Phone.              
+The review sentiment must be slightly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a techie.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Johnson, Woods and Mullins Android Phone",
+"review": "The Johnson, Woods and Mullins Android Phone offers a solid, dependable smartphone experience with a clean and intuitive interface. Its hardware is robust, and the device feels comfortable to hold. The camera capabilities are decent, providing good image quality in various lighting conditions. While it may not be the flashiest or most feature-rich phone on the market, it is a reliable choice for those seeking a straightforward, functional device."
+}

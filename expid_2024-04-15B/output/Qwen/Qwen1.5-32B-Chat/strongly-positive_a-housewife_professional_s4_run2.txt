@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Carter and Sons Sofa.              
+The review sentiment must be strongly positive.
+The review must be 4 sentences long.
+The review must be written from the perspective of a housewife.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+{
+  "product_name": "Carter and Sons Sofa",
+  "review": "As a busy housewife, I am thrilled with the Carter and Sons Sofa. The craftsmanship is exceptional, providing both durability and style to our living room. The comfortable seating and elegant design have elevated our home's ambiance. The sofa has easily withstands daily use and family gatherings, maintaining its pristine appearance. I highly recommend the Carter and Sons Sofa for its perfect blend of quality, comfort, and aesthetics."
+}

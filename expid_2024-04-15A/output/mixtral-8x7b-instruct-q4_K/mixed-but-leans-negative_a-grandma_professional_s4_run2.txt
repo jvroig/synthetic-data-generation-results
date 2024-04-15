@@ -1,0 +1,16 @@
+Prompt:
+
+Create a product review for this product: Hooper, Young and Zimmerman Sofa.              
+The review sentiment must be mixed but leans negative.
+The review must be 4 sentences long.
+The review must be written from the perspective of a grandma.
+The tone of the review must be professional.
+Answer in JSON format, where the first key is "product_name", and the second key is "review".
+
+Do not include any other extra information beyond that.
+Product Review:
+Response:
+ {
+"product\_name": "Hooper, Young and Zimmerman Sofa",
+"review": "The Hooper, Young and Zimmerman Sofa initially caught my eye with its classic design and comfortable cushions. However, I was disappointed to find that the fabric easily stains and is not as durable as I had hoped. Additionally, the sofa is quite heavy and difficult to move, which can be a challenge for those with mobility concerns. While I appreciate the comfortable seating, I am hesitant to recommend this sofa due to its durability and mobility issues."
+}
